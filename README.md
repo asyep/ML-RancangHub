@@ -1,105 +1,196 @@
-# ML-RancangHub
-🤖 RAB AI Engine Project Documentation
+# RAB AI Engine
 
-💡 Gambaran Umum Proyek
+Proyek AI untuk memprediksi Rencana Anggaran Biaya (RAB) konstruksi menggunakan Machine Learning.
 
-Proyek ini bertujuan untuk mengembangkan sebuah Machine Learning Engine yang mampu memprediksi Volume Satuan Pekerjaan (misalnya Volume Pondasi, Volume Dinding) berdasarkan karakteristik input proyek (misalnya Tipe Proyek, Luas Bangunan, Lokasi).
+## 📋 Deskripsi Proyek
 
-Proyek AI ini dikembangkan secara terpisah dari Web Development (Backend/Frontend) sebagai Best Practice untuk memastikan fokus utama pada akurasi dan performa model (otak AI).
+RAB AI Engine adalah sistem kecerdasan buatan yang dirancang untuk memprediksi kebutuhan material dan volume pekerjaan konstruksi berdasarkan data historis proyek. Sistem ini memisahkan pengembangan logic AI dengan pengembangan website, sehingga memudahkan fokus pada pelatihan model terlebih dahulu sebelum integrasi ke sistem yang lebih besar.
 
-🚀 Struktur Direktori
+### Fitur Utama
+- Prediksi volume pondasi, dinding, dan material lainnya
+- Berbasis data historis proyek (Masjid, Sekolah, Rumah, dll)
+- Menggunakan algoritma Ensemble Learning (Random Forest)
+- Input: Tipe bangunan, Luas area, Lokasi
+- Output: Estimasi volume pekerjaan dan kebutuhan material
 
-Berikut adalah struktur folder dan file yang wajib disiapkan:
+## 📁 Struktur Folder
 
+```
 RAB_AI_Engine/
 │
-├── data/                       <-- Dataset historis untuk training
-│   └── data_proyek_historis.csv
+├── data/                           # Dataset untuk training
+│   └── data_proyek_historis.csv    # Data RAB proyek lama (Excel/CSV)
 │
-├── models/                     <-- Model AI yang sudah dilatih (.pkl)
+├── models/                         # Model AI yang sudah dilatih
+│   └── (file .pkl akan tersimpan di sini)
 │
-├── notebooks/                  <-- Area eksperimen (Jupyter Notebook)
-│   └── 1_eksplorasi_data.ipynb
+├── notebooks/                      # Jupyter Notebooks untuk eksplorasi
+│   └── 1_eksplorasi_data.ipynb     # Analisis dan visualisasi data
 │
-├── src/                        <-- Source Code inti (Python Scripts)
-│   ├── train_model.py          <-- Script melatih & menyimpan model
-│   └── predict.py              <-- Script simulasi prediksi
+├── src/                            # Source code utama
+│   ├── train_model.py              # Script untuk melatih model AI
+│   └── predict.py                  # Script untuk prediksi/testing
 │
-├── requirements.txt            <-- Daftar dependensi library Python
-└── README.md                   <-- Dokumentasi proyek ini (File ini)
+├── requirements.txt                # Daftar library Python yang dibutuhkan
+└── README.md                       # Dokumentasi proyek (file ini)
+```
 
+## 🔧 Penjelasan File
 
-🛠️ Persiapan Awal (Setup)
+### 1. `data/data_proyek_historis.csv`
+**Fungsi:** Dataset utama untuk melatih AI
 
-Ikuti langkah-langkah berikut untuk menyiapkan lingkungan pengembangan (environment):
+**Format:** CSV (Comma Separated Values)
+- Lebih ringan dan cepat dibaca dibanding Excel
+- Berisi data historis proyek konstruksi
 
-Buka Proyek: Buka folder RAB_AI_Engine di VS Code.
+**Kolom yang diperlukan:**
+- **Input:** Tipe Bangunan, Luas (m²), Lokasi
+- **Output:** Volume Pondasi, Volume Dinding, dll.
 
-Instal Python: Pastikan Python sudah terinstal di sistem Anda.
+### 2. `notebooks/1_eksplorasi_data.ipynb`
+**Fungsi:** Workspace untuk eksperimen dan analisis data
 
-Instal Dependensi: Buka Terminal di VS Code (Ctrl + \``) dan jalankan perintah berikut untuk menginstal semua *library* yang terdaftar di requirements.txt`:
+**Kegunaan:**
+- Eksplorasi data secara interaktif
+- Visualisasi grafik dan statistik
+- Deteksi data kosong atau anomali
+- Testing algoritma sebelum implementasi final
 
+**Cara menggunakan:** Install extension "Jupyter" di VS Code
+
+### 3. `src/train_model.py`
+**Fungsi:** Script utama untuk melatih model AI
+
+**Proses:**
+1. Membaca data dari folder `data/`
+2. Menjalankan algoritma Ensemble Learning (Random Forest)
+3. Menyimpan model terlatih ke folder `models/`
+
+### 4. `src/predict.py`
+**Fungsi:** Script untuk simulasi prediksi
+
+**Kegunaan:**
+- Testing model yang sudah dilatih
+- Contoh: Input "Masjid 200m² di Bandung" → Output estimasi volume
+- Memanggil file model dari folder `models/`
+
+### 5. `requirements.txt`
+**Fungsi:** Daftar library Python yang dibutuhkan
+
+**Isi:**
+```
+pandas          # Manipulasi data
+numpy           # Komputasi numerik
+scikit-learn    # Machine Learning
+joblib          # Menyimpan/load model
+matplotlib      # Visualisasi data
+```
+
+## 🚀 Cara Memulai
+
+### 1. Setup Environment
+
+```bash
+# Buka folder proyek di VS Code
+cd RAB_AI_Engine
+
+# Install semua library yang dibutuhkan
 pip install -r requirements.txt
+```
 
+### 2. Persiapan Data
 
-Dependensi yang Digunakan (requirements.txt)
+Karena mungkin belum ada data asli yang rapi, gunakan dummy dataset terlebih dahulu untuk testing.
 
-Library
+**Opsi:**
+- Generate dummy data menggunakan script Python
+- Import data historis yang sudah ada (format Excel/CSV)
+- Convert file Excel ke CSV jika diperlukan
 
-Fungsi Utama
+### 3. Eksplorasi Data
 
-pandas
+```bash
+# Buka Jupyter Notebook di VS Code
+# File: notebooks/1_eksplorasi_data.ipynb
+```
 
-Manipulasi dan data handling data CSV.
+Lakukan:
+- Analisis distribusi data
+- Cek missing values
+- Visualisasi korelasi antar variabel
 
-numpy
+### 4. Training Model
 
-Operasi numerik untuk Machine Learning.
+```bash
+# Jalankan script training
+python src/train_model.py
+```
 
-scikit-learn
+Hasil: File model (`.pkl`) akan tersimpan di folder `models/`
 
-Implementasi algoritma ML seperti Random Forest dan preprocessing data.
+### 5. Testing Prediksi
 
-joblib
+```bash
+# Jalankan script prediksi
+python src/predict.py
+```
 
-Untuk serialisasi (menyimpan dan memuat) model AI.
+Contoh output:
+```
+Input: Masjid, 200m², Bandung
+Prediksi Volume Pondasi: 45.3 m³
+Prediksi Volume Dinding: 128.7 m³
+```
 
-matplotlib
+## 💡 Best Practice
 
-Visualisasi data (opsional, untuk eksplorasi di Notebook).
+### Pemisahan Pengembangan
+- **Logic AI (Model Training):** Fokus pada akurasi model
+- **Pengembangan Website:** Backend/Frontend terpisah
+- **Keuntungan:** Memastikan "otak AI" pintar dulu sebelum integrasi
 
-📂 Alur Kerja Pengembangan
+### Workflow Development
+1. ✅ Siapkan dataset yang bersih
+2. ✅ Eksplorasi di Jupyter Notebook
+3. ✅ Training model dengan algoritma terbaik
+4. ✅ Testing dan validasi akurasi
+5. ✅ Export model untuk integrasi ke website
 
-1. Data Source (data/)
+## 📊 Dataset Requirements
 
-Data historis dalam format CSV adalah input utama untuk melatih AI.
+Format data yang ideal:
 
-Kolom Input (Features): Tipe Proyek, Luas, Lokasi.
+| Tipe Bangunan | Luas (m²) | Lokasi  | Volume Pondasi | Volume Dinding | ... |
+|---------------|-----------|---------|----------------|----------------|-----|
+| Masjid        | 200       | Bandung | 45.3           | 128.7          | ... |
+| Sekolah       | 500       | Jakarta | 112.5          | 320.4          | ... |
+| Rumah         | 120       | Bogor   | 28.9           | 85.2           | ... |
 
-Kolom Target (Labels): Volume Pondasi, Volume Dinding, dll.
+## 🛠️ Tech Stack
 
-2. Eksplorasi & Preprocessing (notebooks/)
+- **Python 3.8+**
+- **pandas:** Data manipulation
+- **scikit-learn:** Machine Learning
+- **numpy:** Numerical computing
+- **matplotlib:** Data visualization
+- **joblib:** Model persistence
 
-Gunakan 1_eksplorasi_data.ipynb untuk:
+## 📝 Catatan
 
-Membaca data dan membersihkan (handling missing values).
+- File `.pkl` di folder `models/` adalah model yang sudah dilatih (jangan dihapus)
+- Pastikan data CSV memiliki format yang konsisten
+- Untuk produksi, pertimbangkan validasi data input yang lebih ketat
 
-Melihat distribusi data (visualisasi).
+## 🔜 Next Steps
 
-Mencoba teknik Encoding untuk fitur kategorikal.
+1. Generate atau import dataset historis
+2. Eksplorasi data untuk memahami pola
+3. Training model dengan berbagai algoritma
+4. Evaluasi performa model (accuracy, RMSE, dll)
+5. Siapkan API endpoint untuk integrasi website
 
-3. Pelatihan Model (src/train_model.py)
+---
 
-Script ini akan menjalankan algoritma Ensemble Learning (misal Random Forest) pada data yang sudah di-preprocessing.
-
-Setelah pelatihan selesai, model yang sudah "pintar" akan disimpan ke models/model_final.pkl menggunakan library joblib.
-
-4. Pengujian Simulasi (src/predict.py)
-
-Script ini berfungsi sebagai simulasi integrasi awal.
-
-Ia akan memuat model (model_final.pkl) dan menerima dummy input (misal: Tipe: Masjid, Luas: 200m2, Lokasi: Bandung), lalu mengembalikan output prediksi volume.
-
-➡️ Langkah Selanjutnya
-
-Langkah pertama yang harus dilakukan adalah membuat Dummy Dataset untuk mengisi data/data_proyek_historis.csv agar Anda memiliki "bahan bakar" untuk memulai coding di Notebook.
+**Status:** Development Phase - Model Training
+**Last Updated:** 2025-11-27
