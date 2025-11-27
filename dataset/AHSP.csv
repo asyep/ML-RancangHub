@@ -1,0 +1,1179 @@
+Ma,JENIS PEKERJAAN,,,: Pekerjaan Pembuatan Kantor Sementara,,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,":1,1,2,4 Pembuatan 1m2 Direksikeet ( Kantor ), Los Kerja dan Gudang",,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,"1,20","179.316,56","215.179,88"
+,,Tukang batu/tembok,L.02,OH,"0,40","184.316,56","73.726,63"
+,,Kepala Tukang,L.03,OH,"0,04","189.316,56","7.572,66"
+,,Mandor,L.04,OH,"0,12","194.316,56","23.317,99"
+,B,Bahan,,,,,
+,,Kaso 5/7,,m3,"0,35","1.500.000,00","525.000,00"
+,,Dinding triplek 4mm,,lembar,"1,00","56.439,36","56.439,36"
+,,Fondasi pasangan batu,,m3,"0,17","160.000,00","27.200,00"
+,,"GRC pelat, t=4mm,uk 122x244 cm",,lembar,"1,24","81.000,00","100.440,00"
+,,Paku,,kg,"0,75","15.500,00","11.625,00"
+,,Asbes gelombang,,lembar,"0,30","110.000,00","33.000,00"
+,,Paku asbes,,kg,"0,10","15.500,00","1.550,00"
+,,Lantai (Beton lantai kerja),,m3,"0,15","1.262.640,61","189.396,09"
+,,Pintu Double teakwood rangka kayu,,m2,"0,10","26.992,09","2.699,21"
+,,Frame besi Kaca Nako,,daun,"1,00","130.000,00","130.000,00"
+,,Cat dinding/plafon,,kg,"16,50","36.800,00","607.200,00"
+,C,Peralatan *),,,,,
+,,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp2.004.346,81"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp200.434,68"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp2.204.781,49"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pembuatan Papan Nama,,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,1.1.2.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,"1,000","179.316,56","179.316,56"
+,,Tukang Kayu,L.02,OH,"1,000","184.316,56","184.316,56"
+,,Kepala Tukang,L.03,OH,100,"189.316,56","18.931,66"
+,,Tukang cat/pelitur,L.03,OH,"1,500","184.316,56","276.474,85"
+,,Mandor,L.04,OH,100,"194.316,56","19.431,66"
+,B,Bahan,,,,,
+,,Multiplek tebal 18 mm **),,Lembar,"0,35","170.382,96","59.634,04"
+,,"Tiang kayu 8/12 kelas II, tinggi 4m",,m3,"0,08","1.350.000,00","103.950,00"
+,,Frame besi L.30.30.3,,kg,"5,80","139.917,07","811.519,01"
+,,Paku campuran 5 cm+ 7cm,,kg,"1,25","15.500,00","19.375,00"
+,,Cat Kayu,,kg,"2,50","82.000,00","205.000,00"
+,C,Peralatan *),,,,,
+,,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp1.877.949,33"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp187.794,93"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp2.065.744,26"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,": Pasangan 1 m’ Bouwplank (Lihat Peraturan Menteri Pekerjaan
+ Umum dan Perumahan Rakyat Nomor 8 Tahun 2023 Lampiran B",,,
+,SATUAN PEMBAYARAN,,,: m,,,
+,KODE ANALASISA,,,: U.1.2.1.d (a)),,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,"L,01",oh,120,"179.316,56","2.151,80"
+,,Tukang Kayu,"L,02",oh,60,"184.316,56","1.105,90"
+,,Kepala Tukang,"L,03",oh,6,"189.316,56","113,59"
+,,Mandor,"L,04",oh,12,"194.316,56","233,18"
+,,,,,,,
+,B,Bahan,,,,,
+,,Kaso 5/7,,m3,130,"1.500.000,00","19.500,00"
+,,Kayu Papan 3/20 cm,,m3,70,"1.350.000,00","9.450,00"
+,,Paku campuran 2 xm dan 5 cm,,kg,200,"15.500,00","310,00"
+,,,,,,,
+,C,Peralatan *),,,,,
+,,Waterpass,,Hari,60,"25.000,00","150,00"
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp33.014,47"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp3.301,45"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp36.315,91"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pembersihan Area Kerja,,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,: 4.2.6.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,5,"179.316,56","89,66"
+,,Tukang Kayu,L.02,OH,25,"184.316,56","4,61"
+,B,Bahan,,,,,
+,,,,,,,
+,C,Peralatan *),,,,,
+,,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp94,27"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp9,43"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp103,69"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan U Ditch 60x60 ( daru gardu pelanggan ke saluran utama),,,
+,SATUAN PEMBAYARAN,,,: M',,,
+,KODE ANALASISA,,,: 8.1.1.9 1 m' Saluran U-Ditch 60x60x120 cm dengan lantai kerja f'c 10 MPa,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,"L,01",OJ,"2,158","25.616,65","5.528,07"
+,,Tukang batu/tembok,"L,02",OJ,"2,158","26.330,94","5.682,22"
+,,Mandor,"L,04",OJ,108,"27.759,51","299,80"
+,,,,,,,
+,B,Bahan,,,,,
+,,Lantai kerja f'c 10 MPa,,m3,445,"1.262.640,61","56.187,51"
+,,Pasir Uruk,,m3,890,"110.000,00","9.790,00"
+,,U-Ditch 60 x 60 x 120 cm,,buah,"8,333","800.000,00","666.640,00"
+,,,,,,,
+,C,Peralatan *),,,,,
+,,"Crane truck 3 Ton, Winch5 Ton *)",,Jam,"2,158","57.142,86","12.331,43"
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp756.459,03"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp75.645,90"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp832.104,93"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan U Ditch 100x100 ( daru gardu pelanggan ke saluran utama),,,
+,SATUAN PEMBAYARAN,,,: M',,,
+,KODE ANALASISA,,,:8.1.1.15 1 m' Saluran U-Ditch 100x100x120 cm dengan lantai kerja f'c 10 MPa,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,"L,01",OJ,"9,651","25.616,65","24.722,63"
+,,Tukang batu/tembok,"L,02",OJ,"2,413","26.330,94","6.353,66"
+,,Mandor,"L,04",OJ,483,"27.759,51","1.340,78"
+,,,,,,,
+,B,Bahan,,,,,
+,,Lantai kerja f'c 10 MPa,,m3,665,"1.262.640,61","83.965,60"
+,,pasir Uruk,,m3,"1,330","110.000,00","14.630,00"
+,,U-Ditch 100 x 100 x 120 cm,,buah,"8,333","1.250.000,00","1.041.625,00"
+,,,,,,,
+,C,Peralatan *),,,,,
+,,"Crane truck 3 Ton, Winch5 Ton *)",,Jam,"2,158","57.142,86","12.331,43"
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp1.184.969,10"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp118.496,91"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp1.303.466,01"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Galian Tanah,,,
+,SATUAN PEMBAYARAN,,,M3,,,
+,KODE ANALASISA,,,:1.2.1.1.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,"L,01",OH,"7,500","179.316,56","134.487,42"
+,,Mandor,"L,04",OH,380,"194.316,56","7.384,03"
+,,,,,,,
+,B,Bahan,,,,,
+,,,,,,,
+,C,Peralatan *),,,,,
+,,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp141.871,45"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp14.187,15"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp156.058,60"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Urugan Tanah Kembali,,,
+,SATUAN PEMBAYARAN,,,M3,,,
+,KODE ANALASISA,,,1.3.1.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,"5,000","179.316,56","89.658,28"
+,,Mandor,L.04,OH,250,"194.316,56","4.857,91"
+,,,,,,,
+,B,Bahan,,,,,
+,,,,,,,
+,C,Peralatan *),,,,,
+,,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp94.516,20"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp9.451,62"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp103.967,82"
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: urukan pasir,,,
+,SATUAN PEMBAYARAN,,,M3,,,
+,KODE ANALASISA,,,1.3.1.3,,,
+,,,,,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,"L,01",OJ,650,"25.616,65","1.665,08"
+,,Mandor,"L,04",OJ,65,"27.759,51","180,44"
+,,,,,,,
+,B,Bahan,,,,,
+,,Pasir Uruk,,m3,"12,000","110.000,00","132.000,00"
+,,,,,,,
+,C,Peralatan *),,,,,
+,,"Crane truck 3 Ton, Winch5 Ton *)",,Jam,"2,158",,"0,00"
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp133.845,52"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp13.384,55"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp147.230,07"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Beton K-250,,"20,75",
+,SATUAN PEMBAYARAN,,,M3,,,
+,KODE ANALASISA,,,: 2.2.1.4.6,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,"1,650","179.316,56","295.872,33"
+,,"Tukang besi/besi
+  beton",L.02,OH,275,"184.316,56","50.687,05"
+,,Kepala Tukang,L.03,OH,28,"189.316,56","5.300,86"
+,,Mandor,L.04,OH,9,"194.316,56","1.748,85"
+,B,Bahan,,,,,
+,,Semen Portland,,kg,368,"1.700,00","625.600,00"
+,,Pasir beton,,kg,770,"166,00","127.820,00"
+,,Kerikil,,kg,1009,"180,00","181.620,00"
+,,Air,,liter,202,"70,00","14.140,00"
+,,,,,,,
+,C,Peralatan *),,,,,
+,,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp1.302.789,10"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp130.278,91"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp1.433.068,01"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,": beton mutu rendah f'c 10 MPa, Slump (100 ± 25) mm, 
+ agregat maks 19 mm secara manual",,,
+,SATUAN PEMBAYARAN,,,M3,,,
+,KODE ANALASISA,,,: 2.2.1.4.2,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,"16,500","179.316,56","295.872,33"
+,,Tukang batu/tembok,L.02,OH,"2,750","184.316,56","50.687,05"
+,,Kepala Tukang,L.03,OH,280,"189.316,56","5.300,86"
+,,Mandor,L.04,OH,90,"194.316,56","1.748,85"
+,,,,,,,
+,B,Bahan,,,,,
+,,Semen Portland,,kg,267,"1.700,00","453.900,00"
+,,Pasir beton,,kg,871,"166,00","144.586,00"
+,,Kerikil,,kg,1.009,"180,00","181.620,00"
+,,Air,,liter,202,"70,00","14.140,00"
+,,,,,,,
+,C,Peralatan *),,,,,
+,,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp1.147.855,10"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp114.785,51"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp1.262.640,61"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pembesian slab diameter ≥ 12mm,,,
+,SATUAN PEMBAYARAN,,,: Kg,,,
+,KODE ANALASISA,,,: 2.2.1.1.2.a,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,80,"179.316,56","143,45"
+,,"Tukang besi/besi
+  beton",L.02,OH,40,"184.316,56","73,73"
+,,Kepala Tukang,L.03,OH,4,"189.316,56","7,57"
+,,Mandor,L.04,OH,8,"194.316,56","15,55"
+,,,,,,,
+,B,Bahan,,,,,
+,,Baja Tulangan Sirip (BjTS),,kg,"1,020","13.200,00","13.464,00"
+,,Kawat tali beton,,kg,15,"48.855,31","732,83"
+,,,,,,,
+,C,Peralatan *),,,,,
+,,Cutter baja beton,,hari,"4,000","5.000,00","2.000,00"
+,,Bender baja beton,,hari,"4,000","5.000,00","2.000,00"
+,,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp18.437,13"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"Rp1.843,71"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp20.280,84"
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: pemasangan bekisting,,,
+,SATUAN PEMBAYARAN,,,: Kg,,,
+,KODE ANALASISA,,,: 2.21.3.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,1,2,3,4,5,"6,00","7,00"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,520,"179.316,56","93.244,61"
+,2,Tukang Kayu,L.02,OH,260,"184.316,56","47.922,31"
+,3,Kepala Tukang,L.03,OH,26,"189.316,56","4.922,23"
+,4,Mandor,L.04,OH,9,"194.316,56","1.748,85"
+,Jumlah Harga Tenaga Kerja,,,,,,
+,B,Bahan,,,,,
+,1,Papan Kayu Kelas III,M.48.d,m3,160,"1.500.000,00","24.000,00"
+,3,Paku 5 – 12 cm,M.77.d,Kg,"3,000","15.500,00","4.650,00"
+,4,Minyak Bekisting,M.141.b,Liter,100,"16.500,00","1.650,00"
+,Jumlah Harga Bahan,,,,,,
+,C,Peralatan,,,,,
+,Jumlah Harga Peralatan,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"Rp178.138,00"
+,E,Biaya Umum dan Keuntungan (10% - 15%) xD,,,,10%,"Rp17.813,80"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"Rp195.951,80"
+,,,,,,,
+,JENIS PEKERJAAN,,,": 1 kg Penulangan kolom, balok, ring balk, sloof, dan shearwall untuk BjTS diameter ≥ 12 mm, cara Semi mekanis (untuk bangunan gedung)",,,
+,SATUAN PEMBAYARAN,,,: Kg,,,
+,KODE ANALASISA,,,: 2.2.1.1.3,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,160,"179.316,56","286,91"
+,,"Tukang besi/besi
+  beton",L.02,OH,160,"184.316,56","294,91"
+,,Kepala Tukang,L.03,OH,16,"189.316,56","30,29"
+,,Mandor,L.04,OH,16,"194.316,56","31,09"
+,Jumlah Harga Tenaga Kerja,,,,,,
+,B,Bahan,,,,,
+,,Baja Tulangan Sirip (BjTS),,Kg,"1,020","13.200,00","13.464,00"
+,,Kawat tali beton,,Kg,28,"48.855,31","1.367,95"
+,Jumlah Harga Bahan,,,,,,
+,C,Peralatan,,,,,
+,,Cutter baja beton,,hari,"4,000","0,00","0,00"
+,,Bender baja beton,,hari,"4,000","0,00","0,00"
+,Jumlah Harga Alat,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"15.475,14"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"1.547,51"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"17.022,66"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 m2 bekisting untuk kolom (3 kali pakai),,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,: 2.2.1.3.4,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (Rp)","Jumlah Harga
+  (Rp)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,660,"179.316,56","118.348,93"
+,,Tukang Kayu,L.02,OH,330,"184.316,56","60.824,47"
+,,Kepala Tukang,L.03,OH,33,"189.316,56","6.247,45"
+,,Mandor,L.04,OH,11,"194.316,56","2.137,48"
+,Jumlah Harga Tenaga Kerja,,,,,,
+,B,Bahan,,,,,
+,,Paku 5 – 12 cm,,kg,"40,000","15.500,00","6.200,00"
+,,Minyak bekisting,,liter,"20,000","16.500,00","3.300,00"
+,,Balok kayu kelas II,,m3,465,"1.350.000,00","6.277,50"
+,,Plywood tebal 12 mm,,lembar,"12,705","130.000,00","16.516,50"
+,,Dolken dia 8 s/d 10 cm,,batang,"65,000","18.000,00","11.700,00"
+,Jumlah Harga Bahan,,,,,,
+,C,Peralatan,,,,,
+,Jumlah Harga Alat,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"113.203,39"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"11.320,34"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"124.523,73"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 m2 bekisting untuk Sloof (3 kali pakai),,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,: 2.2.1.3.4,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,660,"179.316,56","118.348,93"
+,,Tukang Kayu,L.02,OH,330,"184.316,56","60.824,47"
+,,Kepala Tukang,L.03,OH,33,"189.316,56","6.247,45"
+,,Mandor,L.04,OH,11,"194.316,56","2.137,48"
+,Jumlah Harga Tenaga Kerja,,,,,,
+,B,Bahan,,,,,
+,,Paku 5 – 12 cm,,kg,"40,000","15.500,00","6.200,00"
+,,Minyak bekisting,,liter,"20,000","16.500,00","3.300,00"
+,,Balok kayu kelas II,,m3,558,"1.350.000,00","7.533,00"
+,,Plywood tebal 12 mm,,lembar,"12,705","130.000,00","16.516,50"
+,,Dolken dia 8 s/d 10 cm,,batang,"65,000","18.000,00","11.700,00"
+,Jumlah Harga Bahan,,,,,,
+,C,Peralatan,,,,,
+,Jumlah Harga Alat,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"114.458,89"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"11.445,89"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"125.904,78"
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: 1 kg Pekerjaan baja pelat secara semi mekanis,,,
+,SATUAN PEMBAYARAN,,,: kg,,,
+,KODE ANALASISA,,,: 2.3.1.4,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,35,"179.316,56","6.186,42"
+,,"Tukang besi/besi
+  beton",L.02,OH,35,"184.316,56","6.358,92"
+,,Kepala Tukang,L.03,OH,3,"189.316,56","643,68"
+,,Mandor,L.04,OH,1,"194.316,56","213,75"
+,Jumlah Harga Tenaga Kerja,,,,,,
+,B,Bahan,,,,,
+,,Baja Pelat,,kg,"1,15","9.680,85","11.132,98"
+,,Kawat las,,kg,53,"35.000,00","1.855,00"
+,Jumlah Harga Bahan,,,,,,
+,C,Peralatan,,,,,
+,,Alat Las Listrik,,Hari,33,"50.000,00","1.650,00"
+,Jumlah Harga Alat,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"21.854,32"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"2.185,43"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"24.039,76"
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: 1 kg Pemasangan angkur,,,
+,SATUAN PEMBAYARAN,,,: kg,,,
+,KODE ANALASISA,,,: 2.3.1.2,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,41,"179.316,56","7.280,25"
+,,"Tukang besi/besi
+  beton",L.02,OH,41,"184.316,56","7.483,25"
+,,Mandor,L.04,OH,4,"194.316,56","796,70"
+,Jumlah Harga Tenaga Kerja,,,,,,
+,B,Bahan,,,,,
+,,Angkur,,kg,"1,00","47.920,21","47.920,21"
+,,Kawat las,,kg,75,"35.000,00","262,50"
+,Jumlah Harga Bahan,,,,,,
+,C,Peralatan,,,,,
+,,Alat Las Listrik,,Hari,406,"50.000,00","2.030,00"
+,Jumlah Harga Alat,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"58.492,66"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"5.849,27"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"64.341,93"
+,,,,,,,
+,JENIS PEKERJAAN,,,: 1 kg Pabrikasi dan Ereksi Baja Profil ( H BEAM),,,
+,SATUAN PEMBAYARAN,,,: kg,,,
+,KODE ANALASISA,,,: 2.3.1.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,38,"179.316,56","6.724,37"
+,,"Tukang besi/besi
+  beton",L.02,OH,13,"184.316,56","2.303,96"
+,,Kepala Tukang,L.03,OH,3,"189.316,56","473,29"
+,,Mandor,L.04,OH,1,"194.316,56","155,45"
+,Jumlah Harga Tenaga Kerja,,,,,,
+,B,Bahan,,,,,
+,,Baja Profil ( H Beam ),,kg,"1,15","27.324,00","31.422,60"
+,,Kawat las,,kg,53,"35.000,00","1.855,00"
+,Jumlah Harga Bahan,,,,,,
+,C,Peralatan,,,,,
+,,Alat las Listrik,,jam,33,"7.142,86","235,71"
+,,Crane Mobile 7 ton,,jam,13,"85.714,29","111,43"
+,Jumlah Harga Alat,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"36.557,44"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"3.655,74"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"40.213,19"
+,,,,,,,
+,JENIS PEKERJAAN,,,": 1 kg Pabrikasi dan Ereksi Baja Profil (Balok IWF 200x100x5,5x8)",,,
+,SATUAN PEMBAYARAN,,,: kg,,,
+,KODE ANALASISA,,,: 2.3.1.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,38,"179.316,56","6.724,37"
+,,"Tukang besi/besi
+  beton",L.02,OH,13,"184.316,56","2.303,96"
+,,Kepala Tukang,L.03,OH,3,"189.316,56","473,29"
+,,Mandor,L.04,OH,1,"194.316,56","155,45"
+,Jumlah Harga Tenaga Kerja,,,,,,
+,B,Bahan,,,,,
+,,"Baja Profil ( IWF 200 x 100 x 5,5x8 )",,kg,"1,15","19.824,47","22.798,14"
+,,Kawat las,,kg,53,"35.000,00","1.855,00"
+,Jumlah Harga Bahan,,,,,,
+,C,Peralatan,,,,,
+,,Alat las Listrik,,jam,33,"7.142,86","235,71"
+,,Crane Mobile 7 ton,,jam,13,"85.714,29","111,43"
+,Jumlah Harga Alat,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"27.932,98"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"2.793,30"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"30.726,28"
+,,,,,,,
+,JENIS PEKERJAAN,,,": 1 kg Pabrikasi dan Ereksi Baja Profil (Balok IWF 200x100x5,5x8)",,,
+,SATUAN PEMBAYARAN,,,: kg,,,
+,KODE ANALASISA,,,: 2.3.1.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,38,"179.316,56","6.724,37"
+,,"Tukang besi/besi
+  beton",L.02,OH,13,"184.316,56","2.303,96"
+,,Kepala Tukang,L.03,OH,3,"189.316,56","473,29"
+,,Mandor,L.04,OH,1,"194.316,56","155,45"
+,Jumlah Harga Tenaga Kerja,,,,,,
+,B,Bahan,,,,,
+,,Baja Profil (IWF 150x75x5x7),,kg,"1,15","17.991,70","20.690,46"
+,,Kawat las,,kg,53,"35.000,00","1.855,00"
+,Jumlah Harga Bahan,,,,,,
+,C,Peralatan,,,,,
+,,Alat las Listrik,,jam,33,"7.142,86","235,71"
+,,Crane Mobile 7 ton,,jam,13,"85.714,29","111,43"
+,Jumlah Harga Alat,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"25.825,30"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"2.582,53"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"28.407,83"
+,,,,,,,
+,JENIS PEKERJAAN,,,": Pemasangan 1 m2 Dinding Bata Merah Tebal ½ Batu dengan Mortar Tipe M, fc’ 17, 7 MPa (Setara Campuran 1SP : 2PP)",,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,: 3.6.1.6,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,38,"179.316,56","6.724,37"
+,2,Tukang,L.02,OH,"1,000","184.316,56","18.431,66"
+,3,Kepala Tukang,L.03,OH,100,"189.316,56","1.893,17"
+,4,Mandor,L.04,OH,33,"194.316,56","641,24"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Bata Merah,,buah,"71,91","800,00","57.528,00"
+,2,Semen Portland,,Kg,"18,95","1.700,00","32.215,00"
+,3,Pasir Pasang,,m3,38,"150.170,00","5.706,46"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"123.139,90"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"12.313,99"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"135.453,89"
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 m2 Plesteran 1SP : 3PP Tebal 15mm,,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,: 3.7.3,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,200,"179.316,56","35.863,31"
+,2,Tukang,L.02,OH,"1,000","184.316,56","18.431,66"
+,3,Kepala Tukang,L.03,OH,100,"189.316,56","1.893,17"
+,4,Mandor,L.04,OH,33,"194.316,56","641,24"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Semen Portland,,Kg,"7,776","1.700,00","13.219,20"
+,1,Pasir Pasang,,m3,23,"150.170,00","3.453,91"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"73.502,49"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"7.350,25"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"80.852,74"
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 m2 Acian,,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,: 3.7.8,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,,Pekerja,L.01,OH,200,"179.316,56","35.863,31"
+,2,Tukang,L.02,OH,"1,000","184.316,56","18.431,66"
+,3,Kepala Tukang,L.03,OH,100,"189.316,56","1.893,17"
+,4,Mandor,L.04,OH,33,"194.316,56","641,24"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Semen Portland,,Kg,"3,25","1.700,00","5.525,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"62.354,38"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"6.235,44"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"68.589,82"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 Unit Fan Louvre 750 x 400 mm,,,
+,SATUAN PEMBAYARAN,,,: unit,,,
+,KODE ANALASISA,,,: 5.5.2.27,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,255,"179.316,56","45.725,72"
+,2,Tukang,L.02,OH,"4,250","184.316,56","78.334,54"
+,3,Kepala Tukang,L.03,OH,430,"189.316,56","8.140,61"
+,4,Mandor,L.04,OH,140,"194.316,56","2.720,43"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,"Fan Louvre,
+ 750 x 400 mm dan
+ aksesoris",,unit,"1,1","300.000,00","330.000,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"464.921,31"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"46.492,13"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"511.413,44"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 titik Instalasi Lampu,,,
+,SATUAN PEMBAYARAN,,,: ttitk,,,
+,KODE ANALASISA,,,: 5.3.1.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,TENAGA KERJA,,,,,
+,1,Pekerja,L.01,OH,"0,19","179.316,56","34.070,15"
+,2,Tukang Listrik /Elektronik,L.02,OH,318,"184.316,56","58.612,67"
+,3,Kepala Tukang,L.03,OH,32,"189.316,56","6.058,13"
+,4,Mandor,L.04,OH,11,"194.316,56","2.137,48"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Kabel NYM 3 x 2.5,,m,"8,80","80.000,00","704.000,00"
+,2,Conduit HI 20 mm,,m,"8,80","4.940,43","43.475,78"
+,3,T Dus,,buah,"1,00","2.909,49","2.909,49"
+,4,Socket Conduit 20 mm,,buah,"5,00","5.172,00","25.860,00"
+,5,Klem 20 mm,,buah,"10,00","2.000,00","20.000,00"
+,6,Fischer S6 + sekrup,,buah,"15,00","5.000,00","75.000,00"
+,7,Flexible Conduit 20mm,,m,"1,00","2.963,00","2.963,00"
+,8,Elbow,,buah,"4,00","1.000,00","4.000,00"
+,9,Isolasi,,m,"0,50","4.802,60","2.401,30"
+,10,Lasdop,,buah,"4,00","150,00","600,00"
+,,,,,,,
+,C,PERALATAN,,,,,
+,JUMLAH HARGA BAHAN,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"982.088,00"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"9,820,880,005"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"1.080.296,80"
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 titik Instalasi Stop Kontak,,,
+,SATUAN PEMBAYARAN,,,: ttitk,,,
+,KODE ANALASISA,,,: 5.1.5.13,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,TENAGA KERJA,,,,,
+,1,Pekerja,L.01,OH,205,"179.316,56","36.759,90"
+,2,Tukang Listrik /Elektronik,L.02,OH,342,"184.316,56","63.036,26"
+,3,Kepala Tukang,L.03,OH,34,"189.316,56","6.436,76"
+,4,Mandor,L.04,OH,11,"194.316,56","2.137,48"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Kabel NYM 3 x 2.5,,m,"14,30","80.000,00","1.144.000,00"
+,2,Conduit HI 20 mm,,m,"14,30","4.940,43","70.648,15"
+,3,T Dus,,buah,"1,00","2.909,49","2.909,49"
+,4,Socket Conduit 20 mm,,buah,"8,00","5.172,00","41.376,00"
+,5,Klem 20 mm,,buah,"8,00","2.000,00","16.000,00"
+,6,Fischer S6 + sekrup,,buah,"12,00","5.000,00","60.000,00"
+,8,Elbow,,buah,"4,00","1.000,00","4.000,00"
+,9,Isolasi,,m,"0,50","4.802,60","2.401,30"
+,10,Lasdop,,buah,"4,00","150,00","600,00"
+,,,,,,,
+,C,PERALATAN,,,,,
+,JUMLAH HARGA BAHAN,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"1.450.305,34"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"1,450,305,345"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"1.595.335,88"
+,,,,,,,
+,JENIS PEKERJAAN,,,": Pemasangan 1 buah water meter, Dia. 3"" (80 mm)",,,
+,SATUAN PEMBAYARAN,,,: Buah,,,
+,KODE ANALASISA,,,: 6.5.11.6,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,471,"179.316,56","84.458,10"
+,2,Tukang,L.02,OH,"7,870","184.316,56","145.057,14"
+,3,Kepala Tukang,L.03,OH,790,"189.316,56","14.956,01"
+,4,Mandor,L.04,OH,240,"194.316,56","4.663,60"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,"Water meter ; Dia. 3“ (80 mm) + Material
+ Bantu",,unit,"1,3","5.400.000,00","7.020.000,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"7.269.134,84"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"726.913,48"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"7.996.048,33"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan Trackstang 12,,,
+,SATUAN PEMBAYARAN,,,: Kg,,,
+,KODE ANALASISA,,,: (Analisa PU2016A.4.1.1.17),,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,7,"179.316,56","1.255,22"
+,2,Tukang,L.02,OH,70,"184.316,56","1.290,22"
+,3,Kepala Tukang,L.03,OH,7,"189.316,56","132,52"
+,4,Mandor,L.04,OH,4,"194.316,56","77,73"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Baja Tulangan Polos (BJTP),C01,kg,"1,05","10.500,00","11.025,00"
+,2,Kawat Ikat beton,C04,kg,15,"22.000,00","330,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"14.110,68"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"1.411,07"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"15.521,75"
+,,,,,,,
+,JENIS PEKERJAAN,,,: 1 kg Pemasangan besi Kanal C,,,
+,SATUAN PEMBAYARAN,,,: Kg,,,
+,KODE ANALASISA,,,:,,,
+,,,,,,,
+,No.,Uraian,Kode,Satuan,Koefisien,Harga Satuan (Rp),Jumlah Harga ( Rp)
+,1,TENAGA KERJA',,,,,
+,,Pekerja,,OH,48,"179.316,56","8.517,54"
+,,Tukang,,OH,29,"184.316,56","5.345,18"
+,,Kepala tukang,,OH,5,"189.316,56","899,25"
+,,Mandor,,OH,3,"194.316,56","485,79"
+,,JUMLAH PEKERJA,,,,,
+,2,BAHAN,,,,,
+,,Canal C,,kg,"1,150","15.400,00","17.710,00"
+,,,,,,,
+,,JUMLAH BAHAN,,,,,
+,3,ALAT,,,,,
+,,,,,,,
+,E,"Jumlah harga tenaga, bahan dan peralatan",,,,,"32.957,76"
+,F,Biaya umum dan keuntungan (10%),,,,,"3.295,78"
+,G,Harga satuan pekerjaan ( E+F ),,,,,"36.253,54"
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan kabel tray 300x100,,,
+,SATUAN PEMBAYARAN,,,:,,,
+,KODE ANALASISA,,,: 6.5.11.6,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,119,"179.316,56","21.338,67"
+,2,Tukang Listrik /Elektronik,L.02,OH,"1,990","184.316,56","36.679,00"
+,3,Kepala Tukang,L.03,OH,200,"189.316,56","3.786,33"
+,4,Mandor,L.04,OH,70,"194.316,56","1.360,22"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Kabel Tray 300 x 100 mm TRU Powder Coating dan aksesoris,,unit,"1,25","450.000,00","562.500,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"625.664,21"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"62.566,42"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"688.230,64"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan kabel tray 300x50,,,
+,SATUAN PEMBAYARAN,,,:,,,
+,KODE ANALASISA,,,: 6.5.11.6,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,119,"179.316,56","21.338,67"
+,2,Tukang Listrik /Elektronik,L.02,OH,"1,990","184.316,56","36.679,00"
+,3,Kepala Tukang,L.03,OH,200,"189.316,56","3.786,33"
+,4,Mandor,L.04,OH,70,"194.316,56","1.360,22"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Kabel Tray 300 x 50 mm TRU Powder Coating dan aksesoris,,unit,"1,25","350.000,00","437.500,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"500.664,21"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"50.066,42"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"550.730,64"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 m2 Atap Spandex Pasir,,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,: 3.1.3.2,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,150,"179.316,56","26.897,48"
+,2,Tukang kayu,L.02,OH,"7,500","184.316,56","138.237,42"
+,3,Kepala Tukang,L.03,OH,750,"189.316,56","14.198,74"
+,4,Mandor,L.04,OH,250,"194.316,56","4.857,91"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Aluminium Gelombang Ukuran95cmx180cm,,lembar,"0,75","300.000,00","225.000,00"
+,2,Paku Pancing,,kg,"0,02","15.500,00","310,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"409.501,56"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"40.950,16"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"450.451,72"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 m2 Atap Spandex Pasir,,,
+,SATUAN PEMBAYARAN,,,: m,,,
+,KODE ANALASISA,,,: 3.1.3.2,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,100,"179.316,56","17.931,66"
+,2,Tukang kayu,L.02,OH,"10,000","184.316,56","184.316,56"
+,3,Kepala Tukang,L.03,OH,"1,000","189.316,56","18.931,66"
+,4,Mandor,L.04,OH,333,"194.316,56","6.470,74"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Nok Standar,,lembar,"1,2","85.000,00","102.000,00"
+,2,Paku Pancing,,kg,"0,02","15.500,00","310,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"329.960,62"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"32.996,06"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"362.956,68"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 Unit Saklar Ganda,,,
+,SATUAN PEMBAYARAN,,,: Unit,,,
+,KODE ANALASISA,,,: 5.1.5.2,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,31,"179.316,56","5.558,81"
+,2,Tukang kayu,L.02,OH,52,"184.316,56","9.584,46"
+,3,Kepala Tukang,L.03,OH,5,"189.316,56","946,58"
+,4,Mandor,L.04,OH,2,"194.316,56","388,63"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Saklar Ganda,,Buah,"1,1","26.000,00","28.600,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"45.078,49"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"4.507,85"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"49.586,34"
+,,,,,,,
+,JENIS PEKERJAAN,,,:Pemasangan 1 m2 BJLS 50 (Tanpa Isolasi),,,
+,SATUAN PEMBAYARAN,,,:,,,
+,KODE ANALASISA,,,: 5.5.3.1,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,31,"179.316,56","5.558,81"
+,2,Tukang kayu,L.02,OH,52,"184.316,56","9.584,46"
+,3,Kepala Tukang,L.03,OH,5,"189.316,56","946,58"
+,4,Mandor,L.04,OH,2,"194.316,56","388,63"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,ZINK BJLS 50 (Tanpa Isolasi),,m2,"1,2","153.000,00","183.600,00"
+,1,Flinkote,,lot,"1,0","57.000,00","57.000,00"
+,1,Finish Cat,,lot,"1,0","48.000,00","48.000,00"
+,1,Hanger + Support,,lot,"1,0","41.500,00","41.500,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"346.578,49"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"34.657,85"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"381.236,34"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 Unit Lampu High Bay 200 Watt,,,
+,SATUAN PEMBAYARAN,,,: unit,,,
+,KODE ANALASISA,,,: 5.3.1.11,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,255,"179.316,56","45.725,72"
+,2,Tukang Listrik /Elektronik,L.02,OH,425,"184.316,56","78.334,54"
+,3,Kepala Tukang,L.03,OH,43,"189.316,56","8.140,61"
+,4,Mandor,L.04,OH,14,"194.316,56","2.720,43"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Lampu High Bay 200 Watt dan aksesoris,,unit,"1,2","3.538.600,00","4.246.320,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"4.381.241,31"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"438.124,13"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"4.819.365,44"
+,,,,,,,
+,JENIS PEKERJAAN,,,": Pengecatan 1 m2 Tembok Baru Eksterior (1 Lapis Cat Dasar, 2 Lapis Cat Penutup)",,,
+,SATUAN PEMBAYARAN,,,: m2,,,
+,KODE ANALASISA,,,: 3.8.10.2,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,77,"179.316,56","13.789,44"
+,2,Tukang Cat/Pelitur,L.02,OH,77,"184.316,56","14.173,94"
+,3,Kepala Tukang,L.03,OH,8,"189.316,56","1.457,74"
+,4,Mandor,L.04,OH,3,"194.316,56","505,22"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Cat Dasar Tembok,,kg,"0,1","25.000,00","2.500,00"
+,1,Cat Tembok Eksterior,,kg,"0,26","48.300,00","12.558,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"44.984,35"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"4.498,43"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"49.482,78"
+,,,,,,,
+,JENIS PEKERJAAN,,,:Pemasangan 1 Unit Tangki Solar harian 500 Liter,,,
+,SATUAN PEMBAYARAN,,,: Buah,,,
+,KODE ANALASISA,,,: 5.1.3.5,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,"2,500","179.316,56","448.291,41"
+,2,Tukang Listrik /Elektronik,L.02,OH,"1,250","184.316,56","230.395,70"
+,3,Kepala Tukang,L.03,OH,125,"189.316,56","23.664,57"
+,4,Mandor,L.04,OH,42,"194.316,56","8.161,30"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Tangki Solar harian 500 Liter dan aksesoris,,unit,"1,1","22.000.000,00","24.200.000,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"24.910.512,98"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"2.491.051,30"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"27.401.564,28"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 Unit Hand Pump Solar,,,
+,SATUAN PEMBAYARAN,,,: Unit,,,
+,KODE ANALASISA,,,: 5.1.3.6,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,94,"179.316,56","16.855,76"
+,2,Tukang Listrik /Elektronik,L.02,OH,94,"184.316,56","17.325,76"
+,3,Kepala Tukang,L.03,OH,9,"189.316,56","1.703,85"
+,4,Mandor,L.04,OH,3,"194.316,56","582,95"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Hand Pump Solar dan aksesoris,,Buah,"1,1","80.000,00","88.000,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"124.468,31"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"12.446,83"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"136.915,14"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 Set Ground tank,,,
+,SATUAN PEMBAYARAN,,,: Set,,,
+,KODE ANALASISA,,,: 6.1.4.4,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,94,"179.316,56","16.855,76"
+,2,Tukang,L.02,OH,94,"184.316,56","17.325,76"
+,3,Kepala Tukang,L.03,OH,9,"189.316,56","1.703,85"
+,4,Mandor,L.04,OH,3,"194.316,56","582,95"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Ground Tank + Material/aksesoris,,Set,"1,025","14.000.000,00","14.350.000,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"14.386.468,31"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"1.438.646,83"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"15.825.115,14"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 m’ Kabel NYY 1 x 300 mm²,,,
+,SATUAN PEMBAYARAN,,,: m',,,
+,KODE ANALASISA,,,: 5.1.1.1.14,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,83,"179.316,56","14.883,27"
+,2,Tukang Listrik /Elektronik,L.02,OH,139,"184.316,56","25.620,00"
+,3,Kepala Tukang,L.03,OH,14,"189.316,56","2.650,43"
+,4,Mandor,L.04,OH,5,"194.316,56","971,58"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,NYY 1 x 300 mm² dan aksesoris,,M',"13,8","765.990,00","10.570.662,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"10.614.787,29"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"1.061.478,73"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"11.676.266,02"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 m’ Kabel NYY 1 x 250 mm²,,,
+,SATUAN PEMBAYARAN,,,: m',,,
+,KODE ANALASISA,,,: 5.1.1.1.13,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,71,"179.316,56","12.731,48"
+,2,Tukang Listrik /Elektronik,L.02,OH,119,"184.316,56","21.933,67"
+,3,Kepala Tukang,L.03,OH,12,"189.316,56","2.271,80"
+,4,Mandor,L.04,OH,4,"194.316,56","777,27"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,NYY 1 x 250 mm² dan aksesoris,,M',"8,05","480.000,00","3.864.000,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"3.901.714,21"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"390.171,42"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"4.291.885,63"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 Unit Kabel Ladder 500 x 200 mm,,,
+,SATUAN PEMBAYARAN,,,: unit,,,
+,KODE ANALASISA,,,: 5.1.1.12.11,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,119,"179.316,56","21.338,67"
+,2,Tukang Listrik /Elektronik,L.02,OH,199,"184.316,56","36.679,00"
+,3,Kepala Tukang,L.03,OH,20,"189.316,56","3.786,33"
+,4,Mandor,L.04,OH,7,"194.316,56","1.360,22"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Kabel Ladder 500 x 200 mm dan aksesoris,,unit,"1,2","382.428,00","458.913,60"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"522.077,81"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"52.207,78"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"574.285,60"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan Kabel N2XSEBY 3 x 150 mm,,,
+,SATUAN PEMBAYARAN,,,: m',,,
+,KODE ANALASISA,,,: 5.1.1.5.25,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,179,"179.316,56","32.097,66"
+,2,Tukang Listrik /Elektronik,L.02,OH,298,"184.316,56","54.926,34"
+,3,Kepala Tukang,L.03,OH,30,"189.316,56","5.679,50"
+,4,Mandor,L.04,OH,10,"194.316,56","1.943,17"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Kabel N2XSEBY 3 x 150 mm,,m,"1,2","726.000,00","871.200,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"965.846,66"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"96.584,67"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"1.062.431,33"
+,,,,,,,
+,JENIS PEKERJAAN,,,":Pemasangan 1 Unit Pompa Booster 450 lpm; Centrifugal End
+ Suction",,,
+,SATUAN PEMBAYARAN,,,: Unit,,,
+,KODE ANALASISA,,,: 6.1.2.2,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,417,"179.316,56","74.775,01"
+,2,Tukang Listrik /Elektronik,L.02,OH,696,"184.316,56","128.284,33"
+,3,Kepala Tukang,L.03,OH,70,"189.316,56","13.252,16"
+,4,Mandor,L.04,OH,21,"194.316,56","4.080,65"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,"Pompa Booster 450
+ lpm (Centrifugal End
+ Suction) + Material
+ Bantu / Aksesoris",,Set,"1,025","15.300.000,00","15.682.500,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"15.902.892,14"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"1.590.289,21"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"17.493.181,36"
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 Unit Exhaust 600 x 400 mm,,,
+,SATUAN PEMBAYARAN,,,: unit,,,
+,KODE ANALASISA,,,: 5.5.2.34,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,64,"179.316,56","11.476,26"
+,2,Tukang,L.02,OH,107,"184.316,56","19.721,87"
+,3,Kepala Tukang,L.03,OH,11,"189.316,56","2.082,48"
+,4,Mandor,L.04,OH,4,"194.316,56","777,27"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,"Exhaust, 600 x 400 mm dan aksesoris",,unit,"1,10","3.889.121,00","4.278.033,10"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"4.312.090,98"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"431.209,10"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"4.743.300,08"
+,,,,,,,
+,JENIS PEKERJAAN,,,": 1 m' Grill Penutup Saluran, Besi Siku + Plat Strip",,,
+,SATUAN PEMBAYARAN,,,: m,,,
+,KODE ANALASISA,,,: 8.1.3.11,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,339,"179.316,56","60.788,32"
+,2,Tukang,L.02,OH,339,"184.316,56","62.483,32"
+,3,Kepala Tukang,L.03,OH,34,"189.316,56","6.436,76"
+,4,Mandor,L.04,OH,11,"194.316,56","2.137,48"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,Plat Strip 3/30 mm - 3 cm,,m,"10,000","20.083,33","200.833,33"
+,2,Besi Siku 40.40.4,,m,"2,600","29.916,67","77.783,33"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"410.462,54"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"41.046,25"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"451.508,80"
+,,,,,,,
+,JENIS PEKERJAAN,,,": Pemasangan 1 m pipa BS SCH 40, DN. 2"" (50 mm)",,,
+,SATUAN PEMBAYARAN,,,: m,,,
+,KODE ANALASISA,,,: 6.4.4.22,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,138,"179.316,56","24.745,69"
+,2,Tukang,L.02,OH,230,"184.316,56","42.392,81"
+,3,Kepala Tukang,L.03,OH,23,"189.316,56","4.354,28"
+,4,Mandor,L.04,OH,7,"194.316,56","1.360,22"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,"Pipa BS SCH 40 ;
+ DN. 2"" (50 mm) +
+ fitting & aksesoris",,m,"1,550","109.250,00","169.337,50"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"242.190,49"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"24.219,05"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"266.409,54"
+,,,,,,Panjang kebutuhan,"2.664.095,42"
+,,,,,,,
+,,,,,,,
+,JENIS PEKERJAAN,,,: Pemasangan 1 unit water Separator,,,
+,SATUAN PEMBAYARAN,,,: Unit,,,
+,KODE ANALASISA,,,:,,,
+,No,Uraian,Kode,Satuan,Koefisien,"Harga Satuan
+  (RP)","Jumlah Harga
+  (RP)"
+,A,Tenaga Kerja,,,,,
+,1,Pekerja,L.01,OH,471,"179.316,56","84.458,10"
+,2,Tukang,L.02,OH,"7,870","184.316,56","145.057,14"
+,3,Kepala Tukang,L.03,OH,790,"189.316,56","14.956,01"
+,4,Mandor,L.04,OH,240,"194.316,56","4.663,60"
+,JUMLAH HARGA TENAGA KERJA,,,,,,
+,B,BAHAN,,,,,
+,1,"Water Separtor + Material
+ Bantu",,unit,"1,3","2.750.000,00","3.575.000,00"
+,JUMLAH HARGA BAHAN,,,,,,
+,C,PERALATAN,,,,,
+,,,,,,,
+,JUMLAH HARGA ALAT,,,,,,
+,D,"Jumlah Harga Tenaga Kerja, Bahan dan Peralatan (A+B+C)",,,,,"3.824.134,84"
+,E,Biaya Umum dan Keuntungan (10% - 15%) x D,,,,10%,"382.413,48"
+,F,Harga Satuan Pekerjaan (D+E),,,,,"4.206.548,33"
