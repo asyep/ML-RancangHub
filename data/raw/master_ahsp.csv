@@ -1,0 +1,200 @@
+kode,divisi,uraian,satuan,harga_satuan
+A.001,A,Pembersihan lapangan dan perataan,m2,70510
+A.002,A,Pembuatan pagar sementara dari seng gelombang (tinggi 2m),m1,173926
+A.003,A,Pembuatan pagar sementara dari kawat duri (tinggi 1.8m),m1,85552
+A.004,A,Pembuatan Direksi Keet/Gudang/Los Kerja (lantai plesteran),m2,585898
+A.005,A,Pembuatan Gudang Semen dan Peralatan,m2,76010
+A.006,A,Pengukuran dan pemasangan bouwplank,m1,92807
+A.007,A,Sewa/Penyediaan Air kerja,Ls,70906
+A.008,A,Sewa/Penyediaan Listrik kerja,Ls,75878
+A.009,A,Mobilisasi dan Demobilisasi Alat Berat,Ls,71302
+A.010,A,Papan Nama Proyek,Bh,73414
+A.011,A,Penyelenggaraan Keamanan dan Kesehatan Kerja (K3) Konstruksi,Ls,72204
+A.012,A,Dokumentasi dan pelaporan proyek,Ls,74206
+B.013,B,Galian tanah biasa sedalam s/d 1 m,m3,147532
+B.014,B,Galian tanah biasa sedalam 1 m s/d 2 m,m3,149550
+B.015,B,Galian tanah biasa sedalam > 2 m,m3,150012
+B.016,B,Galian tanah keras/berbatu sedalam s/d 1 m,m3,75130
+B.017,B,Galian tanah lumpur sedalam s/d 1 m,m3,74470
+B.018,B,Pengupasan lapisan tanah atas (stripping) tebal 20 cm,m2,146041
+B.019,B,Buangan tanah sejauh 30 m,m3,70114
+B.020,B,Urugan tanah kembali (bekas galian),m3,72974
+B.021,B,Urugan tanah merah/peninggian lantai (didatangkan),m3,75394
+B.022,B,Pemadatan tanah (per 20 cm) dengan alat stamper,m3,107107
+B.023,B,Urugan pasir urug bawah pondasi (tebal 5 cm),m3,118140
+B.024,B,Urugan pasir urug bawah lantai (tebal 10 cm),m3,121264
+B.025,B,Urugan sirtu (pasir batu) dipadatkan,m3,72050
+C.026,C,Pasangan aanstamping (batu kosong),m3,75790
+C.027,C,Pasangan pondasi batu kali campuran 1SP : 3PP,m3,751289
+C.028,C,Pasangan pondasi batu kali campuran 1SP : 4PP,m3,745244
+C.029,C,Pasangan pondasi batu kali campuran 1SP : 5PP,m3,735673
+C.030,C,Pondasi sumuran diameter 60 cm,m1,74338
+C.031,C,Pondasi sumuran diameter 80 cm,m1,76560
+C.032,C,Pondasi plat beton setempat (footplate) K-225,m3,184710
+C.033,C,Pondasi cerucuk bambu/dolken diameter 8-10 cm,m1,71434
+C.034,C,Pemancangan tiang pancang mini pile (20x20),m1,76054
+C.035,C,Pemancangan tiang pancang mini pile (25x25),m1,74294
+D.036,D,Lantai kerja beton mutu K-100 (tebal 5 cm),m3,1056616
+D.037,D,Beton mutu K-175 (Sloof/Kolom Praktis),m3,177452
+D.038,D,Beton mutu K-225 (Kolom/Balok/Plat),m3,1357052
+D.039,D,Beton mutu K-250 (Struktur Utama),m3,183843
+D.040,D,Beton mutu K-300 (Struktur Khusus),m3,187173
+D.041,D,Pembesian dengan besi polos (per 10 kg),10Kg,311493
+D.042,D,Pembesian dengan besi ulir (per 10 kg),10Kg,163152
+D.043,D,Pasang bekisting pondasi (papan terentang),m2,166584
+D.044,D,Pasang bekisting sloof (papan terentang),m2,167827
+D.045,D,Pasang bekisting kolom (plywood 9mm + kaso),m2,239690
+D.046,D,Pasang bekisting balok (plywood 9mm + kaso),m2,247731
+D.047,D,Pasang bekisting plat lantai (plywood 9mm + kaso),m2,242863
+D.048,D,Pasang bekisting tangga,m2,238830
+D.049,D,Bongkar bekisting pondasi/sloof,m2,167150
+D.050,D,Bongkar bekisting kolom/balok/plat,m2,169059
+D.051,D,Membuat kolom praktis 11x11 cm (beton K-175),m1,75878
+D.052,D,Membuat balok praktis/ring balk 11x11 cm (beton K-175),m1,76560
+D.053,D,Membuat meja dapur beton bertulang tebal 8-10 cm,m2,72490
+E.054,E,Pasangan dinding bata merah 1/2 batu 1SP:3PP,m2,1080415
+E.055,E,Pasangan dinding bata merah 1/2 batu 1SP:4PP,m2,1064599
+E.056,E,Pasangan dinding bata merah 1/2 batu 1SP:5PP,m2,1036140
+E.057,E,Pasangan dinding bata merah 1 batu 1SP:4PP,m2,136983
+E.058,E,Pasangan dinding bata ringan (hebel) tebal 7.5 cm,m2,623491
+E.059,E,Pasangan dinding bata ringan (hebel) tebal 10 cm,m2,612491
+E.060,E,Pasangan dinding batako (conblock) HB 10,m2,70224
+E.061,E,Pasangan dinding batako (conblock) HB 20,m2,73414
+E.062,E,Pasangan dinding roster/kerawang,m2,74470
+E.063,E,Pasangan dinding glass block (20x20),m2,73238
+E.064,E,Pasangan batu alam (dinding),m2,74580
+F.065,F,Plesteran dinding tebal 15mm 1SP:3PP,m2,619547
+F.066,F,Plesteran dinding tebal 15mm 1SP:4PP,m2,652338
+F.067,F,Plesteran dinding tebal 15mm 1SP:5PP,m2,655534
+F.068,F,Plesteran beton (skoning) 1SP:2PP,m2,618024
+F.069,F,Acian semen pada dinding bata merah,m2,322404
+F.070,F,Acian semen instan pada dinding bata ringan,m2,71786
+F.071,F,Acian permukaan beton (kolom/balok),m2,322938
+F.072,F,Pekerjaan sponengan (tali air) kusen,m1,71918
+G.073,G,Pasang lantai keramik 30x30 cm,m2,76538
+G.074,G,Pasang lantai keramik 40x40 cm,m2,71808
+G.075,G,Pasang lantai keramik 50x50 cm,m2,74162
+G.076,G,Pasang lantai keramik 60x60 cm (Granit Tile),m2,353727
+G.077,G,Pasang lantai keramik KM/WC 20x20 cm,m2,71148
+G.078,G,Pasang dinding keramik 20x25 cm,m2,132792
+G.079,G,Pasang dinding keramik 25x40 cm,m2,137808
+G.080,G,Pasang dinding keramik 30x60 cm,m2,134079
+G.081,G,Pasang plint lantai keramik 10x30 cm,m1,71016
+G.082,G,Pasang plint lantai keramik 10x40 cm,m1,73502
+G.083,G,Pasang lantai parket/vinyl (tempel),m2,70378
+G.084,G,Pasang lantai batu sikat/koral sikat,m2,70642
+G.085,G,Pasang paving block natural (6 cm),m2,225258
+G.086,G,Pasang paving block natural (8 cm),m2,223234
+H.087,H,Pembuatan kusen pintu/jendela kayu Kelas II,m3,4444841
+H.088,H,Pembuatan kusen pintu/jendela kayu Kelas I,m3,4437114
+H.089,H,Pasang kusen pintu/jendela alumunium 3 inch,m1,510862
+H.090,H,Pasang kusen pintu/jendela alumunium 4 inch,m1,497326
+H.091,H,Pembuatan daun pintu panel kayu Kelas II,Unit,1519589
+H.092,H,Pembuatan daun pintu triplek rangkap,Unit,71258
+H.093,H,Pembuatan daun pintu teakwood rangkap,Unit,76538
+H.094,H,Pembuatan daun jendela kaca kayu Kelas II,Unit,74602
+H.095,H,Pembuatan daun pintu/jendela rangka alumunium,Unit,75790
+H.096,H,Pasang pintu PVC (kamar mandi) lengkap kusen,Unit,76164
+H.097,H,Pasang kaca bening tebal 3mm,m2,203951
+H.098,H,Pasang kaca bening tebal 5mm,m2,203522
+H.099,H,Pasang kaca rayben tebal 5mm,m2,208747
+H.100,H,Pasang kunci tanam biasa (2 slaag),Bh,269060
+H.101,H,Pasang kunci tanam kamar mandi (bulat),Bh,273108
+H.102,H,Pasang engsel pintu nylon/kuningan (4 inch),Bh,74580
+H.103,H,Pasang engsel jendela (3 inch),Bh,75768
+H.104,H,Pasang grendel pintu/jendela,Bh,75614
+H.105,H,Pasang hak angin jendela,Ps,76054
+H.106,H,Pasang door closer,Bh,72226
+H.107,H,Pasang door stop,Bh,71698
+I.108,I,Pasang rangka atap baja ringan (profil C75.75),m2,305305
+I.109,I,Pasang reng baja ringan (profil R32.45),m2,74558
+I.110,I,Pasang kuda-kuda kayu Kelas II (bentang 6m),m3,165060
+I.111,I,Pasang gording kayu Kelas II,m3,74184
+I.112,I,Pasang kaso & reng kayu Kelas II,m2,72600
+I.113,I,Pasang atap genteng keramik (glazur),m2,281446
+I.114,I,Pasang atap genteng beton,m2,179914
+I.115,I,Pasang atap genteng metal pasir,m2,75086
+I.116,I,Pasang atap asbes gelombang,m2,74954
+I.117,I,Pasang atap seng gelombang/galvalum,m2,75086
+I.118,I,Pasang atap spandek,m2,169174
+I.119,I,Pasang atap polycarbonate (canopy),m2,72886
+I.120,I,Pasang bubungan (nok) genteng keramik,m1,74602
+I.121,I,Pasang bubungan (nok) genteng beton,m1,187306
+I.122,I,Pasang bubungan (nok) genteng metal,m1,71148
+I.123,I,Pasang lisplang kayu (2x20 cm),m1,75240
+I.124,I,Pasang lisplang GRC (20 cm),m1,72446
+I.125,I,Pasang talang air PVC,m1,76406
+I.126,I,Pasang talang jurai seng/alumunium,m1,73282
+I.127,I,Pasang lapisan alumunium foil,m2,74602
+J.128,J,Pasang rangka plafond hollow besi (40x40 & 20x40),m2,73414
+J.129,J,Pasang rangka plafond kayu,m2,74206
+J.130,J,Pasang penutup plafond gypsum board (9mm),m2,294151
+J.131,J,Pasang penutup plafond GRC/Kalsiboard (4mm),m2,72732
+J.132,J,Pasang penutup plafond triplek (3mm/4mm),m2,73282
+J.133,J,Pasang list profil plafond gypsum,m1,75240
+J.134,J,Pasang list plafond kayu,m1,74580
+J.135,J,Pasang shadow line (tali air) plafond gypsum,m1,73150
+K.136,K,Mengerok cat lama,m2,92103
+K.137,K,Plamir dinding,m2,70246
+K.138,K,Cat dasar (alkali sealer) dinding eksterior,m2,93159
+K.139,K,Cat dinding interior (3x lapis) standar,m2,133023
+K.140,K,Cat dinding interior (3x lapis) premium,m2,132231
+K.141,K,Cat dinding eksterior (weathershield) 3x lapis,m2,158620
+K.142,K,Cat plafond gypsum/GRC,m2,91410
+K.143,K,Cat kayu (kusen/pintu) dengan cat minyak,m2,89727
+K.144,K,Politur/Melamik kayu (finishing natural),m2,93951
+K.145,K,Cat besi (pagar/tralis),m2,161667
+K.146,K,Cat meni besi (anti karat),m2,94842
+K.147,K,Pelapisan waterproofing dak beton,m2,75922
+K.148,K,Pelapisan waterproofing dinding luar,m2,75482
+L.149,L,Galian tanah untuk pipa air,m3,172799
+L.150,L,Pasang pipa air bersih PVC 1/2 inch,m1,169917
+L.151,L,Pasang pipa air bersih PVC 3/4 inch,m1,172161
+L.152,L,Pasang pipa air bersih PVC 1 inch,m1,175956
+L.153,L,Pasang pipa air bersih PPR (Air Panas),m1,173195
+L.154,L,Pasang pipa air kotor PVC 2 inch,m1,169928
+L.155,L,Pasang pipa air kotor PVC 3 inch,m1,176847
+L.156,L,Pasang pipa air kotor/tinja PVC 4 inch,m1,172610
+L.157,L,Pasang aksesoris pipa (Fitting),Bh,70356
+L.158,L,Pasang Gate Valve / Stop Kran,Bh,75372
+L.159,L,Pasang Kloset Jongkok,Unit,2350832
+L.160,L,Pasang Kloset Duduk Monoblock,Unit,2346564
+L.161,L,Pasang Wastafel Gantung/Meja,Unit,72358
+L.162,L,Pasang Urinoir,Unit,74734
+L.163,L,Pasang Kran Air,Bh,75086
+L.164,L,Pasang Kran Shower / Shower Mandi,Set,75768
+L.165,L,Pasang Floor Drain,Bh,71170
+L.166,L,Pasang Kitchen Sink 1 Lubang,Unit,72578
+L.167,L,Pasang Kitchen Sink 2 Lubang,Unit,76164
+L.168,L,Pasang Tangki Air 500-1000L,Unit,73260
+L.169,L,Pasang Pompa Air,Unit,74426
+L.170,L,Pembuatan Septic Tank Konvensional,Unit,4809916
+L.171,L,Pemasangan Bio Septic Tank,Unit,75372
+L.172,L,Pembuatan Sumur Resapan,Unit,70334
+L.173,L,Pembuatan Bak Kontrol,Unit,73018
+L.174,L,Pemasangan Grease Trap,Unit,72996
+L.175,L,Pemasangan Roof Tank Support,Ls,71302
+L.176,L,Testing & Commissioning Plumbing,Ls,70642
+M.177,M,Pasang titik instalasi lampu,Titik,317047
+M.178,M,Pasang titik instalasi stop kontak,Titik,71676
+M.179,M,Pasang saklar tunggal,Bh,108141
+M.180,M,Pasang saklar ganda,Bh,107897
+M.181,M,Pasang stop kontak,Bh,72622
+M.182,M,Pasang stop kontak AC,Bh,74954
+M.183,M,Pasang lampu downlight,Bh,117414
+M.184,M,Pasang lampu plafon (outbow),Bh,123656
+M.185,M,Pasang lampu gantung/hias,Bh,122001
+M.186,M,Pasang lampu taman/dinding,Bh,122655
+M.187,M,Pasang lampu TL / LED Strip,Bh,124975
+M.188,M,Pasang Box MCB,Unit,75240
+M.189,M,Pasang MCB,Bh,73942
+M.190,M,Pasang Kabel Feeder,m1,72226
+M.191,M,Pasang Grounding,Unit,74448
+M.192,M,Pasang Penangkal Petir,Unit,74162
+M.193,M,Pasang Exhaust Fan,Unit,76164
+M.194,M,Instalasi Telepon/Data/TV/CCTV,Titik,74030
+M.195,M,Testing & Commissioning Elektrikal,Ls,75636
+N.196,N,Pembuatan pagar besi hollow,m2,160880
+N.197,N,Pembuatan kanopi rangka besi,m2,136136
+N.198,N,Pekerjaan taman (rumput),m2,71654
+N.199,N,Pembersihan akhir,Ls,74998

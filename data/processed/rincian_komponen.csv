@@ -1,0 +1,574 @@
+kode,kategori,item,koef,harga,subtotal
+A.001,A. Tenaga,Pekerja,0.481,120000,57720
+A.001,A. Tenaga,Mandor,0.029,220000,6380
+A.002,A. Tenaga,Pekerja,0.48,120000,57600
+A.002,A. Tenaga,Mandor,0.031,220000,6820
+A.002,B. Bahan,Seng Gelombang,1.176,65000,76440
+A.002,B. Bahan,Kaso Kayu 5/7,0.493,35000,17255
+A.003,A. Tenaga,Pekerja,0.49,120000,58800
+A.003,A. Tenaga,Mandor,0.03,220000,6600
+A.003,B. Bahan,Kawat Beton,0.495,25000,12375
+A.004,A. Tenaga,Pekerja,0.518,120000,62160
+A.004,A. Tenaga,Mandor,0.029,220000,6380
+A.004,B. Bahan,Plywood 9mm,0.513,125000,64125
+A.004,B. Bahan,Kaso Kayu 5/7,0.962,35000,33670
+A.004,B. Bahan,Semen PC,4.884,75000,366300
+A.005,A. Tenaga,Pekerja,0.519,120000,62280
+A.005,A. Tenaga,Mandor,0.031,220000,6820
+A.006,A. Tenaga,Pekerja,0.486,120000,58320
+A.006,A. Tenaga,Mandor,0.031,220000,6820
+A.006,B. Bahan,Papan Bekisting,0.201,45000,9045
+A.006,B. Bahan,Kaso Kayu 5/7,0.291,35000,10185
+A.007,A. Tenaga,Pekerja,0.484,120000,58080
+A.007,A. Tenaga,Mandor,0.029,220000,6380
+A.008,A. Tenaga,Pekerja,0.518,120000,62160
+A.008,A. Tenaga,Mandor,0.031,220000,6820
+A.009,A. Tenaga,Pekerja,0.487,120000,58440
+A.009,A. Tenaga,Mandor,0.029,220000,6380
+A.010,A. Tenaga,Pekerja,0.503,120000,60360
+A.010,A. Tenaga,Mandor,0.029,220000,6380
+A.011,A. Tenaga,Pekerja,0.492,120000,59040
+A.011,A. Tenaga,Mandor,0.03,220000,6600
+A.012,A. Tenaga,Pekerja,0.509,120000,61080
+A.012,A. Tenaga,Mandor,0.029,220000,6380
+B.013,A. Tenaga,Pekerja,0.798,120000,95760
+B.013,A. Tenaga,Mandor,0.048,220000,10560
+B.013,A. Tenaga,Tukang Gali,0.195,140000,27300
+B.013,C. Alat,Sewa Alat Bantu,0.1,5000,500
+B.014,A. Tenaga,Pekerja,0.807,120000,96840
+B.014,A. Tenaga,Mandor,0.052,220000,11440
+B.014,A. Tenaga,Tukang Gali,0.194,140000,27160
+B.014,C. Alat,Sewa Alat Bantu,0.103,5000,515
+B.015,A. Tenaga,Pekerja,0.802,120000,96240
+B.015,A. Tenaga,Mandor,0.049,220000,10780
+B.015,A. Tenaga,Tukang Gali,0.206,140000,28840
+B.015,C. Alat,Sewa Alat Bantu,0.103,5000,515
+B.016,A. Tenaga,Pekerja,0.516,120000,61920
+B.016,A. Tenaga,Mandor,0.029,220000,6380
+B.017,A. Tenaga,Pekerja,0.511,120000,61320
+B.017,A. Tenaga,Mandor,0.029,220000,6380
+B.018,A. Tenaga,Pekerja,0.767,120000,92040
+B.018,A. Tenaga,Mandor,0.051,220000,11220
+B.018,A. Tenaga,Tukang Gali,0.207,140000,28980
+B.018,C. Alat,Sewa Alat Bantu,0.105,5000,525
+B.019,A. Tenaga,Pekerja,0.478,120000,57360
+B.019,A. Tenaga,Mandor,0.029,220000,6380
+B.020,A. Tenaga,Pekerja,0.496,120000,59520
+B.020,A. Tenaga,Mandor,0.031,220000,6820
+B.021,A. Tenaga,Pekerja,0.518,120000,62160
+B.021,A. Tenaga,Mandor,0.029,220000,6380
+B.022,A. Tenaga,Pekerja,0.517,120000,62040
+B.022,A. Tenaga,Mandor,0.029,220000,6380
+B.022,C. Alat,Sewa Stamper,0.193,150000,28950
+B.023,A. Tenaga,Pekerja,0.807,120000,96840
+B.023,A. Tenaga,Mandor,0.048,220000,10560
+B.024,A. Tenaga,Pekerja,0.827,120000,99240
+B.024,A. Tenaga,Mandor,0.05,220000,11000
+B.025,A. Tenaga,Pekerja,0.489,120000,58680
+B.025,A. Tenaga,Mandor,0.031,220000,6820
+C.026,A. Tenaga,Pekerja,0.521,120000,62520
+C.026,A. Tenaga,Mandor,0.029,220000,6380
+C.027,A. Tenaga,Pekerja,0.515,120000,61800
+C.027,A. Tenaga,Mandor,0.029,220000,6380
+C.027,B. Bahan,Batu Kali,1.153,220000,253660
+C.027,B. Bahan,Semen PC,3.13,75000,234750
+C.027,B. Bahan,Pasir Pasang,0.395,320000,126400
+C.028,A. Tenaga,Pekerja,0.516,120000,61920
+C.028,A. Tenaga,Mandor,0.03,220000,6600
+C.028,B. Bahan,Batu Kali,1.141,220000,251020
+C.028,B. Bahan,Semen PC,3.049,75000,228675
+C.028,B. Bahan,Pasir Pasang,0.404,320000,129280
+C.029,A. Tenaga,Pekerja,0.479,120000,57480
+C.029,A. Tenaga,Mandor,0.03,220000,6600
+C.029,B. Bahan,Batu Kali,1.205,220000,265100
+C.029,B. Bahan,Semen PC,2.877,75000,215774
+C.029,B. Bahan,Pasir Pasang,0.387,320000,123840
+C.030,A. Tenaga,Pekerja,0.51,120000,61200
+C.030,A. Tenaga,Mandor,0.029,220000,6380
+C.031,A. Tenaga,Pekerja,0.525,120000,63000
+C.031,A. Tenaga,Mandor,0.03,220000,6600
+C.032,A. Tenaga,Pekerja,1.021,120000,122519
+C.032,A. Tenaga,Tukang Batu,0.208,150000,31200
+C.032,A. Tenaga,Kepala Tukang,0.019,180000,3420
+C.032,A. Tenaga,Mandor,0.049,220000,10780
+C.033,A. Tenaga,Pekerja,0.488,120000,58560
+C.033,A. Tenaga,Mandor,0.029,220000,6380
+C.034,A. Tenaga,Pekerja,0.523,120000,62760
+C.034,A. Tenaga,Mandor,0.029,220000,6380
+C.035,A. Tenaga,Pekerja,0.506,120000,60720
+C.035,A. Tenaga,Mandor,0.031,220000,6820
+D.036,A. Tenaga,Pekerja,0.993,120000,119160
+D.036,A. Tenaga,Tukang Batu,0.193,150000,28950
+D.036,A. Tenaga,Kepala Tukang,0.019,180000,3420
+D.036,A. Tenaga,Mandor,0.049,220000,10780
+D.036,B. Bahan,Semen PC,5.112,75000,383400
+D.036,B. Bahan,Pasir Beton,0.479,350000,167650
+D.036,B. Bahan,Split/Kerikil,0.824,300000,247200
+D.037,A. Tenaga,Pekerja,0.979,120000,117480
+D.037,A. Tenaga,Tukang Batu,0.192,150000,28800
+D.037,A. Tenaga,Kepala Tukang,0.02,180000,3600
+D.037,A. Tenaga,Mandor,0.052,220000,11440
+D.038,A. Tenaga,Pekerja,1.038,120000,124560
+D.038,A. Tenaga,Tukang Batu,0.205,150000,30749
+D.038,A. Tenaga,Kepala Tukang,0.02,180000,3600
+D.038,A. Tenaga,Mandor,0.05,220000,11000
+D.038,B. Bahan,Semen PC,7.699,75000,577425
+D.038,B. Bahan,Pasir Beton,0.51,350000,178500
+D.038,B. Bahan,Split/Kerikil,0.794,300000,238200
+D.038,C. Alat,Sewa Molen,0.199,350000,69650
+D.039,A. Tenaga,Pekerja,1.032,120000,123840
+D.039,A. Tenaga,Tukang Batu,0.193,150000,28950
+D.039,A. Tenaga,Kepala Tukang,0.021,180000,3780
+D.039,A. Tenaga,Mandor,0.048,220000,10560
+D.040,A. Tenaga,Pekerja,1.041,120000,124919
+D.040,A. Tenaga,Tukang Batu,0.204,150000,30599
+D.040,A. Tenaga,Kepala Tukang,0.019,180000,3420
+D.040,A. Tenaga,Mandor,0.051,220000,11220
+D.041,A. Tenaga,Pekerja,0.517,120000,62040
+D.041,A. Tenaga,Tukang Besi,0.505,155000,78275
+D.041,A. Tenaga,Kepala Tukang,0.052,180000,9360
+D.041,B. Bahan,Besi Beton Polos,9.979,13000,129726
+D.041,B. Bahan,Kawat Beton,0.151,25000,3775
+D.042,A. Tenaga,Pekerja,0.507,120000,60840
+D.042,A. Tenaga,Tukang Besi,0.504,155000,78120
+D.042,A. Tenaga,Kepala Tukang,0.052,180000,9360
+D.043,A. Tenaga,Pekerja,0.4,120000,48000
+D.043,A. Tenaga,Tukang Kayu,0.6,155000,93000
+D.043,A. Tenaga,Kepala Tukang,0.058,180000,10440
+D.044,A. Tenaga,Pekerja,0.412,120000,49440
+D.044,A. Tenaga,Tukang Kayu,0.598,155000,92690
+D.044,A. Tenaga,Kepala Tukang,0.058,180000,10440
+D.045,A. Tenaga,Pekerja,0.394,120000,47280
+D.045,A. Tenaga,Tukang Kayu,0.602,155000,93310
+D.045,A. Tenaga,Kepala Tukang,0.058,180000,10440
+D.045,B. Bahan,Plywood 9mm,0.339,125000,42375
+D.045,B. Bahan,Kaso Kayu 5/7,0.521,35000,18235
+D.045,B. Bahan,Paku,0.313,20000,6260
+D.046,A. Tenaga,Pekerja,0.406,120000,48720
+D.046,A. Tenaga,Tukang Kayu,0.625,155000,96875
+D.046,A. Tenaga,Kepala Tukang,0.06,180000,10800
+D.046,B. Bahan,Plywood 9mm,0.364,125000,45500
+D.046,B. Bahan,Kaso Kayu 5/7,0.489,35000,17115
+D.046,B. Bahan,Paku,0.31,20000,6200
+D.047,A. Tenaga,Pekerja,0.383,120000,45960
+D.047,A. Tenaga,Tukang Kayu,0.63,155000,97650
+D.047,A. Tenaga,Kepala Tukang,0.058,180000,10440
+D.047,B. Bahan,Plywood 9mm,0.345,125000,43125
+D.047,B. Bahan,Kaso Kayu 5/7,0.502,35000,17570
+D.047,B. Bahan,Paku,0.302,20000,6040
+D.048,A. Tenaga,Pekerja,0.413,120000,49560
+D.048,A. Tenaga,Tukang Kayu,0.589,155000,91295
+D.048,A. Tenaga,Kepala Tukang,0.061,180000,10980
+D.048,B. Bahan,Plywood 9mm,0.341,125000,42625
+D.048,B. Bahan,Kaso Kayu 5/7,0.484,35000,16940
+D.048,B. Bahan,Paku,0.286,20000,5719
+D.049,A. Tenaga,Pekerja,0.386,120000,46320
+D.049,A. Tenaga,Tukang Kayu,0.613,155000,95015
+D.049,A. Tenaga,Kepala Tukang,0.059,180000,10620
+D.050,A. Tenaga,Pekerja,0.419,120000,50280
+D.050,A. Tenaga,Tukang Kayu,0.594,155000,92070
+D.050,A. Tenaga,Kepala Tukang,0.063,180000,11340
+D.051,A. Tenaga,Pekerja,0.518,120000,62160
+D.051,A. Tenaga,Mandor,0.031,220000,6820
+D.052,A. Tenaga,Pekerja,0.525,120000,63000
+D.052,A. Tenaga,Mandor,0.03,220000,6600
+D.053,A. Tenaga,Pekerja,0.496,120000,59520
+D.053,A. Tenaga,Mandor,0.029,220000,6380
+E.054,A. Tenaga,Pekerja,0.576,120000,69120
+E.054,A. Tenaga,Tukang Batu,0.304,150000,45600
+E.054,A. Tenaga,Kepala Tukang,0.029,180000,5220
+E.054,B. Bahan,Bata Merah,69.943,1200,83931
+E.054,B. Bahan,Semen PC,10.207,75000,765525
+E.054,B. Bahan,Pasir Pasang,0.04,320000,12800
+E.055,A. Tenaga,Pekerja,0.612,120000,73440
+E.055,A. Tenaga,Tukang Batu,0.29,150000,43500
+E.055,A. Tenaga,Kepala Tukang,0.031,180000,5580
+E.055,B. Bahan,Bata Merah,72.282,1200,86738
+E.055,B. Bahan,Semen PC,9.952,75000,746400
+E.055,B. Bahan,Pasir Pasang,0.038,320000,12160
+E.056,A. Tenaga,Pekerja,0.608,120000,72960
+E.056,A. Tenaga,Tukang Batu,0.312,150000,46800
+E.056,A. Tenaga,Kepala Tukang,0.03,180000,5400
+E.056,B. Bahan,Bata Merah,71.676,1200,86011
+E.056,B. Bahan,Semen PC,9.573,75000,717975
+E.056,B. Bahan,Pasir Pasang,0.04,320000,12800
+E.057,A. Tenaga,Pekerja,0.619,120000,74280
+E.057,A. Tenaga,Tukang Batu,0.299,150000,44850
+E.057,A. Tenaga,Kepala Tukang,0.03,180000,5400
+E.058,A. Tenaga,Pekerja,0.622,120000,74640
+E.058,A. Tenaga,Tukang Batu,0.3,150000,45000
+E.058,A. Tenaga,Kepala Tukang,0.029,180000,5220
+E.058,B. Bahan,Hebel,8.738,50000,436900
+E.058,B. Bahan,Semen Instan,0.101,50000,5050
+E.059,A. Tenaga,Pekerja,0.588,120000,70560
+E.059,A. Tenaga,Tukang Batu,0.315,150000,47250
+E.059,A. Tenaga,Kepala Tukang,0.03,180000,5400
+E.059,B. Bahan,Hebel,8.573,50000,428650
+E.059,B. Bahan,Semen Instan,0.099,50000,4950
+E.060,A. Tenaga,Pekerja,0.477,120000,57240
+E.060,A. Tenaga,Mandor,0.03,220000,6600
+E.061,A. Tenaga,Pekerja,0.503,120000,60360
+E.061,A. Tenaga,Mandor,0.029,220000,6380
+E.062,A. Tenaga,Pekerja,0.511,120000,61320
+E.062,A. Tenaga,Mandor,0.029,220000,6380
+E.063,A. Tenaga,Pekerja,0.498,120000,59760
+E.063,A. Tenaga,Mandor,0.031,220000,6820
+E.064,A. Tenaga,Pekerja,0.51,120000,61200
+E.064,A. Tenaga,Mandor,0.03,220000,6600
+F.065,A. Tenaga,Pekerja,0.611,120000,73320
+F.065,A. Tenaga,Tukang Batu,0.306,150000,45900
+F.065,A. Tenaga,Kepala Tukang,0.03,180000,5400
+F.065,B. Bahan,Semen PC,5.767,75000,432525
+F.065,B. Bahan,Pasir Pasang,0.019,320000,6080
+F.066,A. Tenaga,Pekerja,0.593,120000,71160
+F.066,A. Tenaga,Tukang Batu,0.291,150000,43650
+F.066,A. Tenaga,Kepala Tukang,0.03,180000,5400
+F.066,B. Bahan,Semen PC,6.219,75000,466425
+F.066,B. Bahan,Pasir Pasang,0.02,320000,6400
+F.067,A. Tenaga,Pekerja,0.593,120000,71160
+F.067,A. Tenaga,Tukang Batu,0.294,150000,44100
+F.067,A. Tenaga,Kepala Tukang,0.03,180000,5400
+F.067,B. Bahan,Semen PC,6.256,75000,469200
+F.067,B. Bahan,Pasir Pasang,0.019,320000,6080
+F.068,A. Tenaga,Pekerja,0.591,120000,70920
+F.068,A. Tenaga,Tukang Batu,0.313,150000,46950
+F.068,A. Tenaga,Kepala Tukang,0.03,180000,5400
+F.068,B. Bahan,Semen PC,5.758,75000,431850
+F.068,B. Bahan,Pasir Pasang,0.021,320000,6720
+F.069,A. Tenaga,Pekerja,0.49,120000,58800
+F.069,A. Tenaga,Mandor,0.031,220000,6820
+F.069,B. Bahan,Semen PC,3.033,75000,227475
+F.070,A. Tenaga,Pekerja,0.487,120000,58440
+F.070,A. Tenaga,Mandor,0.031,220000,6820
+F.071,A. Tenaga,Pekerja,0.494,120000,59280
+F.071,A. Tenaga,Mandor,0.03,220000,6600
+F.071,B. Bahan,Semen PC,3.036,75000,227700
+F.072,A. Tenaga,Pekerja,0.488,120000,58560
+F.072,A. Tenaga,Mandor,0.031,220000,6820
+G.073,A. Tenaga,Pekerja,0.523,120000,62760
+G.073,A. Tenaga,Mandor,0.031,220000,6820
+G.074,A. Tenaga,Pekerja,0.489,120000,58680
+G.074,A. Tenaga,Mandor,0.03,220000,6600
+G.075,A. Tenaga,Pekerja,0.505,120000,60600
+G.075,A. Tenaga,Mandor,0.031,220000,6820
+G.076,A. Tenaga,Pekerja,0.497,120000,59640
+G.076,A. Tenaga,Mandor,0.029,220000,6380
+G.076,B. Bahan,Granit 60x60,1.09,225000,245250
+G.076,B. Bahan,Semen Instan,0.206,50000,10300
+G.077,A. Tenaga,Pekerja,0.484,120000,58080
+G.077,A. Tenaga,Mandor,0.03,220000,6600
+G.078,A. Tenaga,Pekerja,0.595,120000,71400
+G.078,A. Tenaga,Tukang Batu,0.294,150000,44100
+G.078,A. Tenaga,Kepala Tukang,0.029,180000,5220
+G.079,A. Tenaga,Pekerja,0.628,120000,75360
+G.079,A. Tenaga,Tukang Batu,0.298,150000,44700
+G.079,A. Tenaga,Kepala Tukang,0.029,180000,5220
+G.080,A. Tenaga,Pekerja,0.586,120000,70320
+G.080,A. Tenaga,Tukang Batu,0.309,150000,46350
+G.080,A. Tenaga,Kepala Tukang,0.029,180000,5220
+G.081,A. Tenaga,Pekerja,0.483,120000,57960
+G.081,A. Tenaga,Mandor,0.03,220000,6600
+G.082,A. Tenaga,Pekerja,0.5,120000,60000
+G.082,A. Tenaga,Mandor,0.031,220000,6820
+G.083,A. Tenaga,Pekerja,0.48,120000,57600
+G.083,A. Tenaga,Mandor,0.029,220000,6380
+G.084,A. Tenaga,Pekerja,0.482,120000,57840
+G.084,A. Tenaga,Mandor,0.029,220000,6380
+G.085,A. Tenaga,Pekerja,0.493,120000,59160
+G.085,A. Tenaga,Mandor,0.029,220000,6380
+G.085,B. Bahan,Paving Block,1.084,110000,119240
+G.085,B. Bahan,Pasir Urug,0.1,200000,20000
+G.086,A. Tenaga,Pekerja,0.507,120000,60840
+G.086,A. Tenaga,Mandor,0.031,220000,6820
+G.086,B. Bahan,Paving Block,1.048,110000,115280
+G.086,B. Bahan,Pasir Urug,0.1,200000,20000
+H.087,A. Tenaga,Pekerja,0.397,120000,47640
+H.087,A. Tenaga,Tukang Kayu,0.603,155000,93465
+H.087,A. Tenaga,Kepala Tukang,0.062,180000,11160
+H.087,B. Bahan,Kusen Kayu (Kamper),1.111,3500000,3888500
+H.088,A. Tenaga,Pekerja,0.417,120000,50040
+H.088,A. Tenaga,Tukang Kayu,0.592,155000,91760
+H.088,A. Tenaga,Kepala Tukang,0.058,180000,10440
+H.088,B. Bahan,Kusen Kayu (Kamper),1.109,3500000,3881500
+H.089,A. Tenaga,Pekerja,0.395,120000,47400
+H.089,A. Tenaga,Tukang Kayu,0.591,155000,91605
+H.089,A. Tenaga,Kepala Tukang,0.061,180000,10980
+H.089,B. Bahan,"Alumunium Kusen 3""",1.153,95000,109535
+H.089,B. Bahan,Sekrup/Fisher,4.098,50000,204900
+H.090,A. Tenaga,Pekerja,0.409,120000,49080
+H.090,A. Tenaga,Tukang Kayu,0.601,155000,93155
+H.090,A. Tenaga,Kepala Tukang,0.061,180000,10980
+H.090,B. Bahan,"Alumunium Kusen 3""",1.09,95000,103550
+H.090,B. Bahan,Sekrup/Fisher,3.907,50000,195350
+H.091,A. Tenaga,Pekerja,0.381,120000,45720
+H.091,A. Tenaga,Tukang Kayu,0.607,155000,94085
+H.091,A. Tenaga,Kepala Tukang,0.058,180000,10440
+H.091,B. Bahan,Daun Pintu Panel,1.026,1200000,1231200
+H.092,A. Tenaga,Pekerja,0.483,120000,57960
+H.092,A. Tenaga,Mandor,0.031,220000,6820
+H.093,A. Tenaga,Pekerja,0.523,120000,62760
+H.093,A. Tenaga,Mandor,0.031,220000,6820
+H.094,A. Tenaga,Pekerja,0.512,120000,61440
+H.094,A. Tenaga,Mandor,0.029,220000,6380
+H.095,A. Tenaga,Pekerja,0.521,120000,62520
+H.095,A. Tenaga,Mandor,0.029,220000,6380
+H.096,A. Tenaga,Pekerja,0.522,120000,62640
+H.096,A. Tenaga,Mandor,0.03,220000,6600
+H.097,A. Tenaga,Pekerja,0.523,120000,62760
+H.097,A. Tenaga,Mandor,0.031,220000,6820
+H.097,B. Bahan,Kaca Polos 5mm,1.053,110000,115830
+H.098,A. Tenaga,Pekerja,0.484,120000,58080
+H.098,A. Tenaga,Mandor,0.03,220000,6600
+H.098,B. Bahan,Kaca Polos 5mm,1.094,110000,120340
+H.099,A. Tenaga,Pekerja,0.486,120000,58320
+H.099,A. Tenaga,Mandor,0.029,220000,6380
+H.099,B. Bahan,Kaca Polos 5mm,1.137,110000,125070
+H.100,A. Tenaga,Pekerja,0.504,120000,60480
+H.100,A. Tenaga,Mandor,0.031,220000,6820
+H.100,B. Bahan,Kunci Tanam,0.985,180000,177300
+H.101,A. Tenaga,Pekerja,0.517,120000,62040
+H.101,A. Tenaga,Mandor,0.03,220000,6600
+H.101,B. Bahan,Kunci Tanam,0.998,180000,179640
+H.102,A. Tenaga,Pekerja,0.51,120000,61200
+H.102,A. Tenaga,Mandor,0.03,220000,6600
+H.103,A. Tenaga,Pekerja,0.519,120000,62280
+H.103,A. Tenaga,Mandor,0.03,220000,6600
+H.104,A. Tenaga,Pekerja,0.516,120000,61920
+H.104,A. Tenaga,Mandor,0.031,220000,6820
+H.105,A. Tenaga,Pekerja,0.523,120000,62760
+H.105,A. Tenaga,Mandor,0.029,220000,6380
+H.106,A. Tenaga,Pekerja,0.494,120000,59280
+H.106,A. Tenaga,Mandor,0.029,220000,6380
+H.107,A. Tenaga,Pekerja,0.49,120000,58800
+H.107,A. Tenaga,Mandor,0.029,220000,6380
+I.108,A. Tenaga,Pekerja,0.479,120000,57480
+I.108,A. Tenaga,Mandor,0.031,220000,6820
+I.108,B. Bahan,Baja Ringan C75,1.258,115000,144670
+I.108,B. Bahan,Reng Baja Ringan,1.524,45000,68580
+I.109,A. Tenaga,Pekerja,0.508,120000,60960
+I.109,A. Tenaga,Mandor,0.031,220000,6820
+I.110,A. Tenaga,Pekerja,0.393,120000,47160
+I.110,A. Tenaga,Tukang Kayu,0.593,155000,91915
+I.110,A. Tenaga,Kepala Tukang,0.061,180000,10980
+I.111,A. Tenaga,Pekerja,0.507,120000,60840
+I.111,A. Tenaga,Mandor,0.03,220000,6600
+I.112,A. Tenaga,Pekerja,0.495,120000,59400
+I.112,A. Tenaga,Mandor,0.03,220000,6600
+I.113,A. Tenaga,Pekerja,0.524,120000,62880
+I.113,A. Tenaga,Mandor,0.029,220000,6380
+I.113,B. Bahan,Genteng Keramik,15.55,12000,186600
+I.114,A. Tenaga,Pekerja,1.005,120000,120599
+I.114,A. Tenaga,Tukang Batu,0.192,150000,28800
+I.114,A. Tenaga,Kepala Tukang,0.02,180000,3600
+I.114,A. Tenaga,Mandor,0.048,220000,10560
+I.115,A. Tenaga,Pekerja,0.512,120000,61440
+I.115,A. Tenaga,Mandor,0.031,220000,6820
+I.116,A. Tenaga,Pekerja,0.511,120000,61320
+I.116,A. Tenaga,Mandor,0.031,220000,6820
+I.117,A. Tenaga,Pekerja,0.512,120000,61440
+I.117,A. Tenaga,Mandor,0.031,220000,6820
+I.118,A. Tenaga,Pekerja,0.484,120000,58080
+I.118,A. Tenaga,Mandor,0.029,220000,6380
+I.118,B. Bahan,Spandek,1.051,85000,89335
+I.119,A. Tenaga,Pekerja,0.499,120000,59880
+I.119,A. Tenaga,Mandor,0.029,220000,6380
+I.120,A. Tenaga,Pekerja,0.512,120000,61440
+I.120,A. Tenaga,Mandor,0.029,220000,6380
+I.121,A. Tenaga,Pekerja,1.047,120000,125639
+I.121,A. Tenaga,Tukang Batu,0.2,150000,30000
+I.121,A. Tenaga,Kepala Tukang,0.019,180000,3420
+I.121,A. Tenaga,Mandor,0.051,220000,11220
+I.122,A. Tenaga,Pekerja,0.484,120000,58080
+I.122,A. Tenaga,Mandor,0.03,220000,6600
+I.123,A. Tenaga,Pekerja,0.515,120000,61800
+I.123,A. Tenaga,Mandor,0.03,220000,6600
+I.124,A. Tenaga,Pekerja,0.492,120000,59040
+I.124,A. Tenaga,Mandor,0.031,220000,6820
+I.125,A. Tenaga,Pekerja,0.522,120000,62640
+I.125,A. Tenaga,Mandor,0.031,220000,6820
+I.126,A. Tenaga,Pekerja,0.502,120000,60240
+I.126,A. Tenaga,Mandor,0.029,220000,6380
+I.127,A. Tenaga,Pekerja,0.512,120000,61440
+I.127,A. Tenaga,Mandor,0.029,220000,6380
+J.128,A. Tenaga,Pekerja,0.503,120000,60360
+J.128,A. Tenaga,Mandor,0.029,220000,6380
+J.129,A. Tenaga,Pekerja,0.509,120000,61080
+J.129,A. Tenaga,Mandor,0.029,220000,6380
+J.130,A. Tenaga,Pekerja,0.483,120000,57960
+J.130,A. Tenaga,Mandor,0.03,220000,6600
+J.130,B. Bahan,Gypsum 9mm,1.02,50000,51000
+J.130,B. Bahan,Hollow 4x4,3.037,50000,151850
+J.131,A. Tenaga,Pekerja,0.496,120000,59520
+J.131,A. Tenaga,Mandor,0.03,220000,6600
+J.132,A. Tenaga,Pekerja,0.502,120000,60240
+J.132,A. Tenaga,Mandor,0.029,220000,6380
+J.133,A. Tenaga,Pekerja,0.515,120000,61800
+J.133,A. Tenaga,Mandor,0.03,220000,6600
+J.134,A. Tenaga,Pekerja,0.51,120000,61200
+J.134,A. Tenaga,Mandor,0.03,220000,6600
+J.135,A. Tenaga,Pekerja,0.501,120000,60120
+J.135,A. Tenaga,Mandor,0.029,220000,6380
+K.136,A. Tenaga,Pekerja,0.204,120000,24480
+K.136,A. Tenaga,Tukang Cat,0.395,150000,59250
+K.137,A. Tenaga,Pekerja,0.479,120000,57480
+K.137,A. Tenaga,Mandor,0.029,220000,6380
+K.138,A. Tenaga,Pekerja,0.202,120000,24240
+K.138,A. Tenaga,Tukang Cat,0.403,150000,60450
+K.139,A. Tenaga,Pekerja,0.209,120000,25080
+K.139,A. Tenaga,Tukang Cat,0.4,150000,60000
+K.139,B. Bahan,Cat Tembok Interior,0.239,150000,35850
+K.140,A. Tenaga,Pekerja,0.193,120000,23160
+K.140,A. Tenaga,Tukang Cat,0.405,150000,60750
+K.140,B. Bahan,Cat Tembok Interior,0.242,150000,36300
+K.141,A. Tenaga,Pekerja,0.21,120000,25200
+K.141,A. Tenaga,Tukang Cat,0.39,150000,58500
+K.141,B. Bahan,Cat Eksterior,0.242,250000,60500
+K.142,A. Tenaga,Pekerja,0.205,120000,24600
+K.142,A. Tenaga,Tukang Cat,0.39,150000,58500
+K.143,A. Tenaga,Pekerja,0.201,120000,24120
+K.143,A. Tenaga,Tukang Cat,0.383,150000,57450
+K.144,A. Tenaga,Pekerja,0.208,120000,24960
+K.144,A. Tenaga,Tukang Cat,0.403,150000,60450
+K.145,A. Tenaga,Pekerja,0.519,120000,62280
+K.145,A. Tenaga,Tukang Besi,0.486,155000,75330
+K.145,A. Tenaga,Kepala Tukang,0.052,180000,9360
+K.146,A. Tenaga,Pekerja,0.196,120000,23520
+K.146,A. Tenaga,Tukang Cat,0.418,150000,62700
+K.147,A. Tenaga,Pekerja,0.522,120000,62640
+K.147,A. Tenaga,Mandor,0.029,220000,6380
+K.148,A. Tenaga,Pekerja,0.515,120000,61800
+K.148,A. Tenaga,Mandor,0.031,220000,6820
+L.149,A. Tenaga,Pekerja,0.294,120000,35280
+L.149,A. Tenaga,Tukang Pipa,0.401,160000,64160
+L.149,B. Bahan,Pipa PVC 3/4,1.05,50000,52500
+L.149,B. Bahan,Lem Pipa,0.103,50000,5150
+L.150,A. Tenaga,Pekerja,0.291,120000,34920
+L.150,A. Tenaga,Tukang Pipa,0.395,160000,63200
+L.150,B. Bahan,Pipa PVC 3/4,1.022,50000,51100
+L.150,B. Bahan,Lem Pipa,0.105,50000,5250
+L.151,A. Tenaga,Pekerja,0.305,120000,36600
+L.151,A. Tenaga,Tukang Pipa,0.406,160000,64960
+L.151,B. Bahan,Pipa PVC 3/4,1.002,50000,50100
+L.151,B. Bahan,Lem Pipa,0.097,50000,4850
+L.152,A. Tenaga,Pekerja,0.299,120000,35880
+L.152,A. Tenaga,Tukang Pipa,0.413,160000,66080
+L.152,B. Bahan,Pipa PVC 3/4,1.062,50000,53100
+L.152,B. Bahan,Lem Pipa,0.098,50000,4900
+L.153,A. Tenaga,Pekerja,0.304,120000,36480
+L.153,A. Tenaga,Tukang Pipa,0.397,160000,63520
+L.153,B. Bahan,Pipa PVC 3/4,1.05,50000,52500
+L.153,B. Bahan,Lem Pipa,0.099,50000,4950
+L.154,A. Tenaga,Pekerja,0.307,120000,36840
+L.154,A. Tenaga,Tukang Pipa,0.389,160000,62240
+L.154,B. Bahan,Pipa PVC 3/4,1.01,50000,50500
+L.154,B. Bahan,Lem Pipa,0.098,50000,4900
+L.155,A. Tenaga,Pekerja,0.304,120000,36480
+L.155,A. Tenaga,Tukang Pipa,0.414,160000,66240
+L.155,B. Bahan,Pipa PVC 3/4,1.063,50000,53150
+L.155,B. Bahan,Lem Pipa,0.098,50000,4900
+L.156,A. Tenaga,Pekerja,0.309,120000,37080
+L.156,A. Tenaga,Tukang Pipa,0.404,160000,64640
+L.156,B. Bahan,Pipa PVC 3/4,1.007,50000,50349
+L.156,B. Bahan,Lem Pipa,0.097,50000,4850
+L.157,A. Tenaga,Pekerja,0.478,120000,57360
+L.157,A. Tenaga,Mandor,0.03,220000,6600
+L.158,A. Tenaga,Pekerja,0.516,120000,61920
+L.158,A. Tenaga,Mandor,0.03,220000,6600
+L.159,A. Tenaga,Pekerja,0.515,120000,61800
+L.159,A. Tenaga,Mandor,0.031,220000,6820
+L.159,B. Bahan,Kloset Duduk,0.985,2100000,2068500
+L.160,A. Tenaga,Pekerja,0.502,120000,60240
+L.160,A. Tenaga,Mandor,0.03,220000,6600
+L.160,B. Bahan,Kloset Duduk,0.984,2100000,2066400
+L.161,A. Tenaga,Pekerja,0.495,120000,59400
+L.161,A. Tenaga,Mandor,0.029,220000,6380
+L.162,A. Tenaga,Pekerja,0.513,120000,61560
+L.162,A. Tenaga,Mandor,0.029,220000,6380
+L.163,A. Tenaga,Pekerja,0.512,120000,61440
+L.163,A. Tenaga,Mandor,0.031,220000,6820
+L.164,A. Tenaga,Pekerja,0.519,120000,62280
+L.164,A. Tenaga,Mandor,0.03,220000,6600
+L.165,A. Tenaga,Pekerja,0.486,120000,58320
+L.165,A. Tenaga,Mandor,0.029,220000,6380
+L.166,A. Tenaga,Pekerja,0.493,120000,59160
+L.166,A. Tenaga,Mandor,0.031,220000,6820
+L.167,A. Tenaga,Pekerja,0.522,120000,62640
+L.167,A. Tenaga,Mandor,0.03,220000,6600
+L.168,A. Tenaga,Pekerja,0.5,120000,60000
+L.168,A. Tenaga,Mandor,0.03,220000,6600
+L.169,A. Tenaga,Pekerja,0.507,120000,60840
+L.169,A. Tenaga,Mandor,0.031,220000,6820
+L.170,A. Tenaga,Pekerja,0.48,120000,57600
+L.170,A. Tenaga,Mandor,0.03,220000,6600
+L.170,B. Bahan,Bata Merah,294.326,1200,353191
+L.170,B. Bahan,Semen PC,48.628,75000,3647100
+L.170,B. Bahan,Pasir Pasang,0.963,320000,308160
+L.171,A. Tenaga,Pekerja,0.516,120000,61920
+L.171,A. Tenaga,Mandor,0.03,220000,6600
+L.172,A. Tenaga,Pekerja,0.476,120000,57120
+L.172,A. Tenaga,Mandor,0.031,220000,6820
+L.173,A. Tenaga,Pekerja,0.5,120000,60000
+L.173,A. Tenaga,Mandor,0.029,220000,6380
+L.174,A. Tenaga,Pekerja,0.498,120000,59760
+L.174,A. Tenaga,Mandor,0.03,220000,6600
+L.175,A. Tenaga,Pekerja,0.487,120000,58440
+L.175,A. Tenaga,Mandor,0.029,220000,6380
+L.176,A. Tenaga,Pekerja,0.482,120000,57840
+L.176,A. Tenaga,Mandor,0.029,220000,6380
+M.177,A. Tenaga,Pekerja,0.524,120000,62880
+M.177,A. Tenaga,Mandor,0.03,220000,6600
+M.177,B. Bahan,Kabel NYM 2x1.5,12.17,12000,146040
+M.177,B. Bahan,Pipa Conduit,2.919,10000,29190
+M.177,B. Bahan,Lampu LED,0.967,45000,43515
+M.178,A. Tenaga,Pekerja,0.488,120000,58560
+M.178,A. Tenaga,Mandor,0.03,220000,6600
+M.179,A. Tenaga,Pekerja,0.515,120000,61800
+M.179,A. Tenaga,Mandor,0.03,220000,6600
+M.179,B. Bahan,Saklar,0.997,30000,29910
+M.180,A. Tenaga,Pekerja,0.514,120000,61680
+M.180,A. Tenaga,Mandor,0.029,220000,6380
+M.180,B. Bahan,Saklar,1.001,30000,30029
+M.181,A. Tenaga,Pekerja,0.497,120000,59640
+M.181,A. Tenaga,Mandor,0.029,220000,6380
+M.182,A. Tenaga,Pekerja,0.511,120000,61320
+M.182,A. Tenaga,Mandor,0.031,220000,6820
+M.183,A. Tenaga,Pekerja,0.476,120000,57120
+M.183,A. Tenaga,Mandor,0.03,220000,6600
+M.183,B. Bahan,Lampu LED,0.956,45000,43020
+M.184,A. Tenaga,Pekerja,0.518,120000,62160
+M.184,A. Tenaga,Mandor,0.029,220000,6380
+M.184,B. Bahan,Lampu LED,0.975,45000,43875
+M.185,A. Tenaga,Pekerja,0.492,120000,59040
+M.185,A. Tenaga,Mandor,0.03,220000,6600
+M.185,B. Bahan,Lampu LED,1.006,45000,45270
+M.186,A. Tenaga,Pekerja,0.479,120000,57480
+M.186,A. Tenaga,Mandor,0.031,220000,6820
+M.186,B. Bahan,Lampu LED,1.049,45000,47205
+M.187,A. Tenaga,Pekerja,0.513,120000,61560
+M.187,A. Tenaga,Mandor,0.029,220000,6380
+M.187,B. Bahan,Lampu LED,1.015,45000,45674
+M.188,A. Tenaga,Pekerja,0.515,120000,61800
+M.188,A. Tenaga,Mandor,0.03,220000,6600
+M.189,A. Tenaga,Pekerja,0.507,120000,60840
+M.189,A. Tenaga,Mandor,0.029,220000,6380
+M.190,A. Tenaga,Pekerja,0.494,120000,59280
+M.190,A. Tenaga,Mandor,0.029,220000,6380
+M.191,A. Tenaga,Pekerja,0.509,120000,61080
+M.191,A. Tenaga,Mandor,0.03,220000,6600
+M.192,A. Tenaga,Pekerja,0.505,120000,60600
+M.192,A. Tenaga,Mandor,0.031,220000,6820
+M.193,A. Tenaga,Pekerja,0.522,120000,62640
+M.193,A. Tenaga,Mandor,0.03,220000,6600
+M.194,A. Tenaga,Pekerja,0.504,120000,60480
+M.194,A. Tenaga,Mandor,0.031,220000,6820
+M.195,A. Tenaga,Pekerja,0.518,120000,62160
+M.195,A. Tenaga,Mandor,0.03,220000,6600
+N.196,A. Tenaga,Pekerja,0.51,120000,61200
+N.196,A. Tenaga,Tukang Besi,0.493,155000,76415
+N.196,A. Tenaga,Kepala Tukang,0.048,180000,8640
+N.197,A. Tenaga,Pekerja,0.394,120000,47280
+N.197,A. Tenaga,Tukang Las,0.478,160000,76480
+N.198,A. Tenaga,Pekerja,0.486,120000,58320
+N.198,A. Tenaga,Mandor,0.031,220000,6820
+N.199,A. Tenaga,Pekerja,0.515,120000,61800
+N.199,A. Tenaga,Mandor,0.029,220000,6380
