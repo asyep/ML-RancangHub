@@ -1,0 +1,19 @@
+kode_item,kelompok,nama_pekerjaan,satuan,harga_satuan
+P001,persiapan,Pembersihan Lapangan,m2,15000
+P002,persiapan,Pemasangan Bouwplank,m1,25000
+F001,pondasi,Galian Tanah Pondasi,m3,75000
+F002,pondasi,Urugan Pasir Bawah Pondasi,m3,185000
+F003,pondasi,Beton Pondasi,m3,850000
+S001,struktur,Beton Sloof,m3,950000
+S002,struktur,Beton Kolom,m3,980000
+S003,struktur,Beton Balok,m3,970000
+D001,dinding,Pasangan Dinding Bata,m2,125000
+D002,dinding,Plesteran Dinding,m2,45000
+A001,atap,Rangka Atap Baja Ringan,m2,145000
+A002,atap,Penutup Atap Genteng,m2,95000
+FN001,finishing,Cat Dinding,m2,35000
+FN002,finishing,Lantai Keramik,m2,125000
+FN003,finishing,Pintu Kayu,buah,450000
+M001,mep,Instalasi Listrik,m2,85000
+M002,mep,Instalasi Air Bersih,m2,65000
+M003,mep,Instalasi Sanitasi,m2,75000

@@ -1,0 +1,11 @@
+id_proyek,tipe_proyek,luas,lantai,spek,lokasi,tahun
+PROJ_0000,rumah_tinggal,77,3,standar,jawa_timur,2022
+PROJ_0001,ruko,239,2,standar,jawa_tengah,2023
+PROJ_0002,rumah_tinggal,75,3,premium,jawa_barat,2020
+PROJ_0003,gedung_sekolah,79,2,standar,jawa_barat,2023
+PROJ_0004,rumah_tinggal,377,3,standar,jawa_tengah,2022
+PROJ_0005,rumah_tinggal,400,2,premium,jawa_tengah,2020
+PROJ_0006,gedung_sekolah,425,2,standar,luar_jawa,2022
+PROJ_0007,kantor,208,1,standar,jawa_tengah,2023
+PROJ_0008,gedung_sekolah,398,2,menengah,jawa_timur,2021
+PROJ_0009,ruko,417,2,standar,jawa_timur,2021
