@@ -1,0 +1,41 @@
+{
+  "model_version": "v2-20260101-151043",
+  "created_at_utc": "20260101-151043",
+  "metrics": {
+    "mae_rf": 41.37356854256854,
+    "mape_rf": 2.8148218478733766,
+    "mae_xgb": 49.61502143307233,
+    "mape_xgb": 1.0118584540440985,
+    "mae_ensemble": 45.27963092324798,
+    "mape_ensemble": 1.1302850015456831
+  },
+  "weights": {
+    "w_rf": 0.26442212188272735,
+    "w_xgb": 0.7355778781172726
+  },
+  "features": {
+    "feature_cols_numeric": [
+      "overhead_percentage",
+      "profit_percentage",
+      "smkk_percentage",
+      "ppn_percentage",
+      "ahsp_items_count"
+    ],
+    "feature_cols_categ": [
+      "regency_id",
+      "province_id",
+      "price_period_id",
+      "project_type_category",
+      "ahsp_unit",
+      "ahsp_group_name"
+    ],
+    "feature_cols_flags": [
+      "project_is_rskgm",
+      "ahsp_is_k3",
+      "ahsp_is_structural",
+      "ahsp_is_mep",
+      "ahsp_is_panel",
+      "ahsp_is_cable"
+    ]
+  }
+}
